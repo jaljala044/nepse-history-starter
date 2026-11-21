@@ -1,0 +1,4221 @@
+{
+  "source": "https://github.com/OmitNomis/ShareSansarScraper/blob/d5949bd628d6b5ca9ebb2b4a15e001a434c6732c/docs/Data/combined_excel.xlsx",
+  "source_download": "https://omitnomis.github.io/ShareSansarScraper/download.html",
+  "source_commit": "d5949bd628d6b5ca9ebb2b4a15e001a434c6732c",
+  "source_sha256": "dc9534bd1e38a467452196548f82a20b14a1fedc9a2e64983484d9137386c38c",
+  "price_basis": "Published OHLC and volume from ShareSansar via ShareSansarScraper. Close is the source Close field.",
+  "first_session": "2024-03-04",
+  "last_session": "2026-11-20",
+  "archived_sessions": 937,
+  "source_symbols": 525,
+  "imported_symbols": 525,
+  "source_rows": 303438,
+  "imported_rows": 301632,
+  "flagged_rows": 1806,
+  "identical_duplicates": 0,
+  "latest_session_source_symbols": 352,
+  "latest_session_imported_symbols": 348,
+  "symbols_without_valid_rows": [],
+  "files": [
+    {
+      "symbol": "ACLBSL",
+      "path": "03_stock_charts_ohlcv/ACLBSL_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "128fc1b05f0cbd17d60caa7daba2ebd735c337e47aa0a5a82a5d6a2ed5b9803e"
+    },
+    {
+      "symbol": "ACLBSLP",
+      "path": "03_stock_charts_ohlcv/ACLBSLP_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2024-10-22",
+      "last_date": "2026-07-17",
+      "sha256": "bf696a5e2e94e22034c7c394bef6cbc17f239f52ba47dc5052350309c34a17e7"
+    },
+    {
+      "symbol": "ADBL",
+      "path": "03_stock_charts_ohlcv/ADBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6a161a9e0a346184e103095bdcf26da1dc6af26333c56c831717d32c3e43928d"
+    },
+    {
+      "symbol": "ADBLB",
+      "path": "03_stock_charts_ohlcv/ADBLB_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2026-07-03",
+      "last_date": "2026-07-03",
+      "sha256": "0aea4f0fa78077fcb3ae8576f5e4056d7306e9f24b8205e14e889f6e6b0d7c83"
+    },
+    {
+      "symbol": "ADBLB86",
+      "path": "03_stock_charts_ohlcv/ADBLB86_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2026-06-09",
+      "last_date": "2026-10-06",
+      "sha256": "ee57e7f7297c7cb127771a5834e10f8878517d225ede8a5e94e245799393f8fe"
+    },
+    {
+      "symbol": "ADBLB87",
+      "path": "03_stock_charts_ohlcv/ADBLB87_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2026-08-14",
+      "last_date": "2026-08-20",
+      "sha256": "8db0975b60a4d166f775667abfbb55b799b644ed7a75fd6948f71c26c1037d27"
+    },
+    {
+      "symbol": "ADBLD83",
+      "path": "03_stock_charts_ohlcv/ADBLD83_OHLCV.csv",
+      "rows": 449,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-04",
+      "sha256": "4566e10be9c24f5454a1c49463b48731fae0da3cd1a4a5f7ab073db7eee468ee"
+    },
+    {
+      "symbol": "AHL",
+      "path": "03_stock_charts_ohlcv/AHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "852e742ce0a0a82cec52dfb06a9db48ee2b59d0439772efb26898673e906d461"
+    },
+    {
+      "symbol": "AHPC",
+      "path": "03_stock_charts_ohlcv/AHPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c941cc7466400d2943e78553e4a23b8ff252bfaec729dda9548427f45f3a512d"
+    },
+    {
+      "symbol": "AKJCL",
+      "path": "03_stock_charts_ohlcv/AKJCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6e06db11edfd8d9d8cfead21c148e7d33ad0ac9cc37e63f0f10b9e36a44c0575"
+    },
+    {
+      "symbol": "AKPL",
+      "path": "03_stock_charts_ohlcv/AKPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "5792ef63d2c730edfa90f4c22d5d49ca23e8f35b1ac3b313183c72e34ef83df1"
+    },
+    {
+      "symbol": "ALBSL",
+      "path": "03_stock_charts_ohlcv/ALBSL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bbea21e9a8ccb4d5ac26fd4c20d8681e26c25d480b3c8d5d006363cd032b48e9"
+    },
+    {
+      "symbol": "ALBSLP",
+      "path": "03_stock_charts_ohlcv/ALBSLP_OHLCV.csv",
+      "rows": 12,
+      "first_date": "2024-06-27",
+      "last_date": "2025-08-25",
+      "sha256": "f649d5d4d0023cf66db9c1429b5bbfa534de61787127960aa8fce257bfaf7561"
+    },
+    {
+      "symbol": "ALICL",
+      "path": "03_stock_charts_ohlcv/ALICL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fea2f8db408ebb259edeb6a87478dc7d62cf7c2b34a954d7399faad079bc6973"
+    },
+    {
+      "symbol": "ALICLP",
+      "path": "03_stock_charts_ohlcv/ALICLP_OHLCV.csv",
+      "rows": 13,
+      "first_date": "2024-03-05",
+      "last_date": "2026-09-28",
+      "sha256": "8796cd2e32c019f6db52686c9aa012a97982667a981472c15ec0a44a55200245"
+    },
+    {
+      "symbol": "ANLB",
+      "path": "03_stock_charts_ohlcv/ANLB_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7a0905315da8c25e1f78224c402432e58f2512edead410f2990f2384842e58d9"
+    },
+    {
+      "symbol": "APHL",
+      "path": "03_stock_charts_ohlcv/APHL_OHLCV.csv",
+      "rows": 109,
+      "first_date": "2026-06-10",
+      "last_date": "2026-11-20",
+      "sha256": "10f0fbec0ba5a1beb73b034d697af51a7317c936907f1bb246b1941bf6b8275b"
+    },
+    {
+      "symbol": "API",
+      "path": "03_stock_charts_ohlcv/API_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b2041e95bca47cd5d980cd874c4c6def5f473a7462c12c898fdaa86c3c8edc22"
+    },
+    {
+      "symbol": "AVYAN",
+      "path": "03_stock_charts_ohlcv/AVYAN_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "36720655376096376625d2026a744d3dffa2cae97ac4ec6d5c835c9fe716ac9e"
+    },
+    {
+      "symbol": "BANDIPUR",
+      "path": "03_stock_charts_ohlcv/BANDIPUR_OHLCV.csv",
+      "rows": 319,
+      "first_date": "2025-11-11",
+      "last_date": "2026-11-20",
+      "sha256": "427a9e09f60b4fdd8540a07aea1bcf09887580f0d3130fea6d0e03f32a69c7f3"
+    },
+    {
+      "symbol": "BARUN",
+      "path": "03_stock_charts_ohlcv/BARUN_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f3c455663521e38b9073eaeda2f8a07fcadda9e7105ae3bd41661a97b6d95519"
+    },
+    {
+      "symbol": "BBC",
+      "path": "03_stock_charts_ohlcv/BBC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7963ed559f36325641004984d48f0d5b370bf6036371e959bd6d79e1cce65788"
+    },
+    {
+      "symbol": "BEDC",
+      "path": "03_stock_charts_ohlcv/BEDC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f6a4d26f319cb58d89e722d486edf3e5310fff7a5b2914fe43caa225d2841647"
+    },
+    {
+      "symbol": "BENH",
+      "path": "03_stock_charts_ohlcv/BENH_OHLCV.csv",
+      "rows": 17,
+      "first_date": "2026-10-15",
+      "last_date": "2026-11-20",
+      "sha256": "e8bbe2e5109bd24fc13951942b6df2880801505d2ea35757fd8fc88b0ee95968"
+    },
+    {
+      "symbol": "BFC",
+      "path": "03_stock_charts_ohlcv/BFC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1edd6b28a2d6e740c36fc7f1059bd7b992e1b9a81958c7cef50c6facf30c33c7"
+    },
+    {
+      "symbol": "BFCPO",
+      "path": "03_stock_charts_ohlcv/BFCPO_OHLCV.csv",
+      "rows": 19,
+      "first_date": "2025-03-04",
+      "last_date": "2026-05-19",
+      "sha256": "c7b61e4dc6cbda232c8072e32aaf3aa441d8fd87e97dfbb1d709e8108a3801ec"
+    },
+    {
+      "symbol": "BGWT",
+      "path": "03_stock_charts_ohlcv/BGWT_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bc66a984e8c376d898f75b52c39865150eb46e8a1e279f15b3663a40900309d4"
+    },
+    {
+      "symbol": "BHCL",
+      "path": "03_stock_charts_ohlcv/BHCL_OHLCV.csv",
+      "rows": 402,
+      "first_date": "2025-08-20",
+      "last_date": "2026-11-20",
+      "sha256": "fd7a24999a5496e4b7871a843000e3203f6d0c042b80db6d6cf0b9af7cdc4526"
+    },
+    {
+      "symbol": "BHDC",
+      "path": "03_stock_charts_ohlcv/BHDC_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "287bbca1c42e57e48ae359bff3216edc0aa796933be642dbaec607e8c5ff98b9"
+    },
+    {
+      "symbol": "BHL",
+      "path": "03_stock_charts_ohlcv/BHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fb69f0cbdac1c601fdaf50b560c321416e7a45c7441e02f126fbf579f7b3c59a"
+    },
+    {
+      "symbol": "BHPL",
+      "path": "03_stock_charts_ohlcv/BHPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6828e2ef8c12055546867fb69df5fefcc4722d60c8f12fd6dff7b408f0841668"
+    },
+    {
+      "symbol": "BJHL",
+      "path": "03_stock_charts_ohlcv/BJHL_OHLCV.csv",
+      "rows": 189,
+      "first_date": "2026-03-22",
+      "last_date": "2026-11-20",
+      "sha256": "7a78d68ca4bd6fe1f004900790e3ee76aeee69a609c7a4cd93de81c09b5c2856"
+    },
+    {
+      "symbol": "BNHC",
+      "path": "03_stock_charts_ohlcv/BNHC_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "24c813bc6e98577c53febcc17e3fccac1ffacc91c122bc4700a849a95938516e"
+    },
+    {
+      "symbol": "BNL",
+      "path": "03_stock_charts_ohlcv/BNL_OHLCV.csv",
+      "rows": 605,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-19",
+      "sha256": "3017a73eea445e0b41e14e55c7ebfbbdb56e3319116e6bce9c7189bc42550615"
+    },
+    {
+      "symbol": "BNT",
+      "path": "03_stock_charts_ohlcv/BNT_OHLCV.csv",
+      "rows": 909,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f7896fa0e60926cfe8efcd08a5107aa5f24ef9e865b06ccb4b006eb2604f30f1"
+    },
+    {
+      "symbol": "BOKD86",
+      "path": "03_stock_charts_ohlcv/BOKD86_OHLCV.csv",
+      "rows": 411,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-17",
+      "sha256": "14c629ca003ad55c131388fec879064d800415386ab7e4384e27f2d9aa7d73b8"
+    },
+    {
+      "symbol": "BOKD86KA",
+      "path": "03_stock_charts_ohlcv/BOKD86KA_OHLCV.csv",
+      "rows": 103,
+      "first_date": "2024-06-24",
+      "last_date": "2026-10-15",
+      "sha256": "7209417a6d01143c4e720db4e5c9de8a8e56a5a0e7c9e79f236fed563f8fc819"
+    },
+    {
+      "symbol": "BPCL",
+      "path": "03_stock_charts_ohlcv/BPCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a9eed5b487d8b0caa4b1e8b885ac15cbce1326efb5bcd0cfe1ad8abe5ebddf2a"
+    },
+    {
+      "symbol": "BPW",
+      "path": "03_stock_charts_ohlcv/BPW_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2024-03-04",
+      "last_date": "2024-03-06",
+      "sha256": "cf579458548acf97d59a42162e1abacd6323e633f1fa52b5fdadb6af9eae990d"
+    },
+    {
+      "symbol": "BUNGAL",
+      "path": "03_stock_charts_ohlcv/BUNGAL_OHLCV.csv",
+      "rows": 319,
+      "first_date": "2025-11-10",
+      "last_date": "2026-11-20",
+      "sha256": "08f9dd08ba598d716c54987667d31ab4ff5c9a993702a0ed3fde05de2ea5c960"
+    },
+    {
+      "symbol": "C30MF",
+      "path": "03_stock_charts_ohlcv/C30MF_OHLCV.csv",
+      "rows": 887,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "fd4f8be9faaf2e03fc263c63b70eb9ebf86dbf25057b91bec93e81a4af3f3888"
+    },
+    {
+      "symbol": "CBBL",
+      "path": "03_stock_charts_ohlcv/CBBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "503f721dd6e0202018411222f44976cef9058c4ccaccbc312b362a47c0e6ff65"
+    },
+    {
+      "symbol": "CBBLPO",
+      "path": "03_stock_charts_ohlcv/CBBLPO_OHLCV.csv",
+      "rows": 9,
+      "first_date": "2024-12-08",
+      "last_date": "2026-09-03",
+      "sha256": "955a9adf40b7e7bacb2989ee182c4c9ae9dcb941524dcf8bd879f67883f06506"
+    },
+    {
+      "symbol": "CBLD88",
+      "path": "03_stock_charts_ohlcv/CBLD88_OHLCV.csv",
+      "rows": 555,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "0783bbc27c7a248121b2592969672a7e04958ed7e5cfc0db1f46cc948c7713d2"
+    },
+    {
+      "symbol": "CCBD88",
+      "path": "03_stock_charts_ohlcv/CCBD88_OHLCV.csv",
+      "rows": 484,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-19",
+      "sha256": "1163a3e1ffb85b289d0fc61c40ff59b640181a790fc734143c7a337b5d792f8b"
+    },
+    {
+      "symbol": "CFCL",
+      "path": "03_stock_charts_ohlcv/CFCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c1dd1f3ae919cc12b0a92c0c7692bcaccbb0351e12452223b5f86539ada1ee20"
+    },
+    {
+      "symbol": "CGH",
+      "path": "03_stock_charts_ohlcv/CGH_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a70e877e0e0f2a1e72f4dfd6c467ececce3afc79f927498fa9ac69ccc8d173d9"
+    },
+    {
+      "symbol": "CHCL",
+      "path": "03_stock_charts_ohlcv/CHCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "16c9bca6141bbe0a3342281221eb6ba21ab31a7c43c2fac1fbbef2220934caae"
+    },
+    {
+      "symbol": "CHDC",
+      "path": "03_stock_charts_ohlcv/CHDC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "54860c47e645af6b5ea3c5116895b1d6b24e8c8edba5352fadc04ddfd968c913"
+    },
+    {
+      "symbol": "CHL",
+      "path": "03_stock_charts_ohlcv/CHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "93d10c1bbfec8e73a2f0d8a3f8d18152b0e21907f046dfa4106af902d6c04149"
+    },
+    {
+      "symbol": "CIT",
+      "path": "03_stock_charts_ohlcv/CIT_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2bbe02a2c7db6e047eca94836418352b1985510f142bc41251e52c128d846d7d"
+    },
+    {
+      "symbol": "CITY",
+      "path": "03_stock_charts_ohlcv/CITY_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "cc6b95469db14025d5c317808b7bcba2a40a68b1d475158f2f80114b8ca9068f"
+    },
+    {
+      "symbol": "CIZBD86",
+      "path": "03_stock_charts_ohlcv/CIZBD86_OHLCV.csv",
+      "rows": 147,
+      "first_date": "2024-03-05",
+      "last_date": "2026-10-26",
+      "sha256": "f3e48a6cb666c75aab655b25303e2eccf2c68185bf016c8233d2fc03e6f5f966"
+    },
+    {
+      "symbol": "CIZBD90",
+      "path": "03_stock_charts_ohlcv/CIZBD90_OHLCV.csv",
+      "rows": 394,
+      "first_date": "2024-04-30",
+      "last_date": "2026-11-20",
+      "sha256": "40a9affdd93d7f5e368147bd1c0d6c64f3e8b46de1f720366935eb5f96391373"
+    },
+    {
+      "symbol": "CKHL",
+      "path": "03_stock_charts_ohlcv/CKHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "faa9e2d713a5c2f4578f326856ace613319731806209e9f745f73ba75c388a4d"
+    },
+    {
+      "symbol": "CLI",
+      "path": "03_stock_charts_ohlcv/CLI_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ceef30613a1ed4671b128a8384e6b538e7990ff82ba189c3ab63f4c843ec0e8b"
+    },
+    {
+      "symbol": "CMF1",
+      "path": "03_stock_charts_ohlcv/CMF1_OHLCV.csv",
+      "rows": 357,
+      "first_date": "2024-03-05",
+      "last_date": "2025-03-01",
+      "sha256": "84a78b1dbf442cc38566a02c21e29bc3622d20c820db9ca81b2288e4061519e6"
+    },
+    {
+      "symbol": "CMF2",
+      "path": "03_stock_charts_ohlcv/CMF2_OHLCV.csv",
+      "rows": 800,
+      "first_date": "2024-03-05",
+      "last_date": "2026-07-02",
+      "sha256": "a46e18851d668f89518901b9114c56cfda6a90507fa15ce05b6a415517b59fd6"
+    },
+    {
+      "symbol": "CORBL",
+      "path": "03_stock_charts_ohlcv/CORBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8f1f7a1903513a300667c73dd5af474803bbda49f67dbcc515edb18b04598522"
+    },
+    {
+      "symbol": "CORBLP",
+      "path": "03_stock_charts_ohlcv/CORBLP_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2026-06-24",
+      "last_date": "2026-08-12",
+      "sha256": "7bebdde9377e3c129d0458b2d07622150ab4d1d0c29afe3f9a7e66f6f7620280"
+    },
+    {
+      "symbol": "CREST",
+      "path": "03_stock_charts_ohlcv/CREST_OHLCV.csv",
+      "rows": 534,
+      "first_date": "2025-04-10",
+      "last_date": "2026-11-20",
+      "sha256": "ab08deaa5c951afe262e4ae5c55852dfefb3017e3762afb5c4a9aba9f67b1568"
+    },
+    {
+      "symbol": "CSY",
+      "path": "03_stock_charts_ohlcv/CSY_OHLCV.csv",
+      "rows": 220,
+      "first_date": "2026-02-17",
+      "last_date": "2026-11-20",
+      "sha256": "9682be8254b87e7fee3eaf5546a554d09c05f2a4056f9e6ffa05f37e35f5eabf"
+    },
+    {
+      "symbol": "CYCL",
+      "path": "03_stock_charts_ohlcv/CYCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d8ba0f75ca6630855a6f42483103bedfd95363b796db5bdd54bdd3c0e6ad856b"
+    },
+    {
+      "symbol": "CYCLP",
+      "path": "03_stock_charts_ohlcv/CYCLP_OHLCV.csv",
+      "rows": 15,
+      "first_date": "2025-01-23",
+      "last_date": "2026-04-09",
+      "sha256": "3366cc4740783ee276b19a3f895a794bf5d7bab32e7ac26e856b9dd552b5fd5d"
+    },
+    {
+      "symbol": "CZBIL",
+      "path": "03_stock_charts_ohlcv/CZBIL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "72c807a989edbbe8a01e3c5c7289b19eaafcb90f33b63794f900c6b8032a1fd9"
+    },
+    {
+      "symbol": "CZBILP",
+      "path": "03_stock_charts_ohlcv/CZBILP_OHLCV.csv",
+      "rows": 36,
+      "first_date": "2024-03-27",
+      "last_date": "2026-08-25",
+      "sha256": "f2eeccb95b55b82dad8d38236232ae88d458679d40c64f4d510cab75796b11a0"
+    },
+    {
+      "symbol": "DDBL",
+      "path": "03_stock_charts_ohlcv/DDBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "34832f5eec3f4f0a24bcbabf2ab2e4bb833e986f27dbc48f6c0edef8152b3411"
+    },
+    {
+      "symbol": "DHEL",
+      "path": "03_stock_charts_ohlcv/DHEL_OHLCV.csv",
+      "rows": 324,
+      "first_date": "2025-11-06",
+      "last_date": "2026-11-20",
+      "sha256": "d1b161973b4f7ba2a8dff5c011bf320d2777beb2c0bd24dd455d9b356c6200ca"
+    },
+    {
+      "symbol": "DHPL",
+      "path": "03_stock_charts_ohlcv/DHPL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b9b45623ed794a4ab6e39ac8a2de07034fe996fb6f7755f39e84c05c96d797e8"
+    },
+    {
+      "symbol": "DLBS",
+      "path": "03_stock_charts_ohlcv/DLBS_OHLCV.csv",
+      "rows": 929,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "737aa22f98b7fb0f355def43eb9e1ec85475d05138c6f79dc6be831500b31d47"
+    },
+    {
+      "symbol": "DOLTI",
+      "path": "03_stock_charts_ohlcv/DOLTI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8f6f15ca2b7acc22c04c6e9db2efa7d9819e44fd9d209de8133c2cc354270203"
+    },
+    {
+      "symbol": "DORDI",
+      "path": "03_stock_charts_ohlcv/DORDI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "75a2b822f856e6ec1c96b9bc72d417baada6477b766579fec76a0f25dd3c93ca"
+    },
+    {
+      "symbol": "EBL",
+      "path": "03_stock_charts_ohlcv/EBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "693a259899c0ff4a78f2f0b68ccd1097d9869f6c63891a0686b3531746e77d80"
+    },
+    {
+      "symbol": "EBLD85",
+      "path": "03_stock_charts_ohlcv/EBLD85_OHLCV.csv",
+      "rows": 558,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-18",
+      "sha256": "1ecdb68343142187d4a5251208f5de542c3ff1f3400aa0d1437b73b46e037703"
+    },
+    {
+      "symbol": "EBLD86",
+      "path": "03_stock_charts_ohlcv/EBLD86_OHLCV.csv",
+      "rows": 566,
+      "first_date": "2024-03-07",
+      "last_date": "2026-11-17",
+      "sha256": "211a50f1e2c1d15d4f8a03a1ed994afa45a2fbaf89fdaeef7d815591f6fec050"
+    },
+    {
+      "symbol": "EBLD91",
+      "path": "03_stock_charts_ohlcv/EBLD91_OHLCV.csv",
+      "rows": 422,
+      "first_date": "2025-05-21",
+      "last_date": "2026-11-20",
+      "sha256": "754eb77d6a8e544909c9b60173df0ba8c9b960d85d0566184b5a821dc0609aa3"
+    },
+    {
+      "symbol": "EBLEB89",
+      "path": "03_stock_charts_ohlcv/EBLEB89_OHLCV.csv",
+      "rows": 206,
+      "first_date": "2025-04-01",
+      "last_date": "2026-11-03",
+      "sha256": "6949759c34218e952df629a1c8f5beac97786e2f106788d4d8410d7d5b25eb18"
+    },
+    {
+      "symbol": "ECL",
+      "path": "03_stock_charts_ohlcv/ECL_OHLCV.csv",
+      "rows": 76,
+      "first_date": "2026-07-17",
+      "last_date": "2026-11-20",
+      "sha256": "ee62767088f51e8c2a39d683f5c15e0bfff34b4be0a1bfff55ffeb8ce7f47bbf"
+    },
+    {
+      "symbol": "EDBL",
+      "path": "03_stock_charts_ohlcv/EDBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fb7e66a6c6878b5ddad9642c2ccaacd5ba209af8257b16d4bb655c1815d3eb5f"
+    },
+    {
+      "symbol": "EDBLPO",
+      "path": "03_stock_charts_ohlcv/EDBLPO_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2025-02-12",
+      "last_date": "2026-08-06",
+      "sha256": "15039ae5583b6cba109d80f1a5e9b911fe9f5bb0dac52a73f48e5ecaa0c460c3"
+    },
+    {
+      "symbol": "EHPL",
+      "path": "03_stock_charts_ohlcv/EHPL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bb5c4baa41e325288de697ec816892f590dd7d9b391f448c45713bdc9ae55637"
+    },
+    {
+      "symbol": "ENL",
+      "path": "03_stock_charts_ohlcv/ENL_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d39e3b8319b33876bb63ff05675259a3f2d8d2ca829fac8e42a15478eac45095"
+    },
+    {
+      "symbol": "FMDBL",
+      "path": "03_stock_charts_ohlcv/FMDBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c72c3f923bdb1495b522a7f4da5f39ff255cd7a286b7c56679c68c8559e0ae88"
+    },
+    {
+      "symbol": "FMDBLP",
+      "path": "03_stock_charts_ohlcv/FMDBLP_OHLCV.csv",
+      "rows": 6,
+      "first_date": "2024-05-05",
+      "last_date": "2026-10-12",
+      "sha256": "89177493ba3ee8f9efe54b1e4ce2190995b8ab688b0739aa7acc7f76fd16521f"
+    },
+    {
+      "symbol": "FOWAD",
+      "path": "03_stock_charts_ohlcv/FOWAD_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7f266ab78d0040a2e6dca148f2ccc5fedad8ff8ff856d66dc14828aa3ef5f580"
+    },
+    {
+      "symbol": "FOWADP",
+      "path": "03_stock_charts_ohlcv/FOWADP_OHLCV.csv",
+      "rows": 10,
+      "first_date": "2024-03-21",
+      "last_date": "2026-07-17",
+      "sha256": "313c9b39035a1794d3cf43b2c8315651739d878b66b5d8707ef6b97f16af0832"
+    },
+    {
+      "symbol": "GBBD85",
+      "path": "03_stock_charts_ohlcv/GBBD85_OHLCV.csv",
+      "rows": 751,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-19",
+      "sha256": "90352b5ba6014647693c5d382503b8c35395033ab8d930c2b576e141be0579bf"
+    },
+    {
+      "symbol": "GBBL",
+      "path": "03_stock_charts_ohlcv/GBBL_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f40941fc3f24d8d160a52a5bf46b740257081cba48f85b1e3b08cb0173742be3"
+    },
+    {
+      "symbol": "GBBLPO",
+      "path": "03_stock_charts_ohlcv/GBBLPO_OHLCV.csv",
+      "rows": 60,
+      "first_date": "2024-04-03",
+      "last_date": "2026-09-29",
+      "sha256": "4f82ae3c78db6ef42973d7df12e3545c9e1e353905764dbf1346816dd0194913"
+    },
+    {
+      "symbol": "GBD80/81",
+      "path": "03_stock_charts_ohlcv/GBD80~2F81_OHLCV.csv",
+      "rows": 13,
+      "first_date": "2024-03-10",
+      "last_date": "2024-04-09",
+      "sha256": "6738884d2b1544fa65c8340732296905590a1a8c9a255d3670ae3dc1f0616faa"
+    },
+    {
+      "symbol": "GBILD84/85",
+      "path": "03_stock_charts_ohlcv/GBILD84~2F85_OHLCV.csv",
+      "rows": 418,
+      "first_date": "2024-06-25",
+      "last_date": "2026-11-18",
+      "sha256": "a5a76c22530a65a5fc113c5bba55371fd559b0c482d54ad8c88ddc23d0f86edd"
+    },
+    {
+      "symbol": "GBILD86/87",
+      "path": "03_stock_charts_ohlcv/GBILD86~2F87_OHLCV.csv",
+      "rows": 431,
+      "first_date": "2024-03-07",
+      "last_date": "2026-11-19",
+      "sha256": "cb75e2625b747bebb72dffac7e010a0be36afc86ccef61a1fac210e1b7d57ea0"
+    },
+    {
+      "symbol": "GBIME",
+      "path": "03_stock_charts_ohlcv/GBIME_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3eb6818bbc5c4702c2428f5e36d221452e461c07f58527511b8780096969056f"
+    },
+    {
+      "symbol": "GBIMEP",
+      "path": "03_stock_charts_ohlcv/GBIMEP_OHLCV.csv",
+      "rows": 119,
+      "first_date": "2024-04-09",
+      "last_date": "2026-09-18",
+      "sha256": "b6e4224b5ce46d14a5005fe1fabd0d9c08d69fbe8ce88bbbdd181548dfd8f5aa"
+    },
+    {
+      "symbol": "GBIMESY2",
+      "path": "03_stock_charts_ohlcv/GBIMESY2_OHLCV.csv",
+      "rows": 388,
+      "first_date": "2025-08-28",
+      "last_date": "2026-11-20",
+      "sha256": "4e741f45544a84fbc13c75545aa1be6e96611c5744e64b01e6aacb976b3b158e"
+    },
+    {
+      "symbol": "GBLBS",
+      "path": "03_stock_charts_ohlcv/GBLBS_OHLCV.csv",
+      "rows": 871,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e8dbbce2bf562781f0da72793f38e0e74638fedf78de8db947ecdaa83b5f378e"
+    },
+    {
+      "symbol": "GCIL",
+      "path": "03_stock_charts_ohlcv/GCIL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "75cfe0e322da1c20b47731a08f286c2bea133387e449c1010adb31f4d87a9bf6"
+    },
+    {
+      "symbol": "GFCL",
+      "path": "03_stock_charts_ohlcv/GFCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f3733d2cba7930fb8937c6ecc881ebb664cc66eb6a726b636a7ea252a4e4592e"
+    },
+    {
+      "symbol": "GHL",
+      "path": "03_stock_charts_ohlcv/GHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "42a23a72120dd139d205e584c524ca20b2e622ea6ede6a042fcdd5d10b2edd32"
+    },
+    {
+      "symbol": "GIBF1",
+      "path": "03_stock_charts_ohlcv/GIBF1_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "51fc71c2fb1e949ef095dbd83946ddea52166be339a527253616a0b5abecdbf3"
+    },
+    {
+      "symbol": "GILB",
+      "path": "03_stock_charts_ohlcv/GILB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1d68797230a688b6fea8e887e87056c2a87fc30c386c62736f61e3041d80d11c"
+    },
+    {
+      "symbol": "GILBPO",
+      "path": "03_stock_charts_ohlcv/GILBPO_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2025-04-10",
+      "last_date": "2025-04-12",
+      "sha256": "95197674fa2f73e3f7f49936af3cdb28bc1ff245ccd44490a4c62a1e6f3e43f5"
+    },
+    {
+      "symbol": "GLBSL",
+      "path": "03_stock_charts_ohlcv/GLBSL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7c624311511e1d70eb957e2cff68e2917fff13b7071c3681fa8df108006698f0"
+    },
+    {
+      "symbol": "GLH",
+      "path": "03_stock_charts_ohlcv/GLH_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "99376c0d6b7d1489d3c2ac1bc5a3da7025a43e7dc65a1256704c35d6bf55f1ab"
+    },
+    {
+      "symbol": "GMFBS",
+      "path": "03_stock_charts_ohlcv/GMFBS_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e7aa1f1b0a7331e02b77c8df4d2f4b2a978fd39badbbbc5387627b66d8db63c1"
+    },
+    {
+      "symbol": "GMFIL",
+      "path": "03_stock_charts_ohlcv/GMFIL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6e8f1e6083c98baa76e0ab2c270b005571b6e5f305a60990213d9c1028054b2b"
+    },
+    {
+      "symbol": "GMFILP",
+      "path": "03_stock_charts_ohlcv/GMFILP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2025-05-21",
+      "last_date": "2025-05-21",
+      "sha256": "0bdde5331b9af26e120420b02dfa321d39af04950b6eda9323a5d03250cb0ed7"
+    },
+    {
+      "symbol": "GMLI",
+      "path": "03_stock_charts_ohlcv/GMLI_OHLCV.csv",
+      "rows": 589,
+      "first_date": "2025-02-09",
+      "last_date": "2026-11-20",
+      "sha256": "e2558f43d06f8839614824a73cb782dbd306517d86c7024b7109a30659ee5fa1"
+    },
+    {
+      "symbol": "GRDBL",
+      "path": "03_stock_charts_ohlcv/GRDBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b7b00a015c1dc4802782efa26b0a3072af7273476162435328f2ed005a509357"
+    },
+    {
+      "symbol": "GRDBLP",
+      "path": "03_stock_charts_ohlcv/GRDBLP_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2024-07-08",
+      "last_date": "2026-07-25",
+      "sha256": "c56638c975187dc80a13b8cad11c2f1168bb5b2f1f730927474f0aa61f1a08ea"
+    },
+    {
+      "symbol": "GSY",
+      "path": "03_stock_charts_ohlcv/GSY_OHLCV.csv",
+      "rows": 581,
+      "first_date": "2025-02-20",
+      "last_date": "2026-11-20",
+      "sha256": "1648db10e6bf8d0afbdd6c9a483376b2cd9eb083fd59652b4378ab98b623e96c"
+    },
+    {
+      "symbol": "GUFL",
+      "path": "03_stock_charts_ohlcv/GUFL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7a30af58c0bd1e4e9b19fa7df9f63b26607c22e3680df14a77852bb0a3ce6e48"
+    },
+    {
+      "symbol": "GUFLPO",
+      "path": "03_stock_charts_ohlcv/GUFLPO_OHLCV.csv",
+      "rows": 12,
+      "first_date": "2024-03-27",
+      "last_date": "2026-08-26",
+      "sha256": "5faaa9e01275479aee2cf75c726600dd682a3fdd5cb03362ee39fc48fe074972"
+    },
+    {
+      "symbol": "GVL",
+      "path": "03_stock_charts_ohlcv/GVL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a100785c273842e8bcff3107300a6dee90dd843fcca4a86ac6ee17dbbcc5ef34"
+    },
+    {
+      "symbol": "GWFD83",
+      "path": "03_stock_charts_ohlcv/GWFD83_OHLCV.csv",
+      "rows": 344,
+      "first_date": "2024-03-06",
+      "last_date": "2026-11-19",
+      "sha256": "d09b040fed5aa64f51b72df31f2855769096e747611503e3c88348e32e9db6e5"
+    },
+    {
+      "symbol": "H8020",
+      "path": "03_stock_charts_ohlcv/H8020_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "ae2ac347644470c6b773ae20dfc7122bba67e145da1ddc093860f6aac72e50db"
+    },
+    {
+      "symbol": "HATHY",
+      "path": "03_stock_charts_ohlcv/HATHY_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "569a172ef8901187a21a8f1f0e819e9589618f6a5da537d8fdb755cab8a306a9"
+    },
+    {
+      "symbol": "HBL",
+      "path": "03_stock_charts_ohlcv/HBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "241b88299b50ef2ef5536e198e3fc31950f14fce0f9d5f304a5a66896a6dbc4d"
+    },
+    {
+      "symbol": "HBLD83",
+      "path": "03_stock_charts_ohlcv/HBLD83_OHLCV.csv",
+      "rows": 157,
+      "first_date": "2024-03-10",
+      "last_date": "2026-08-04",
+      "sha256": "a43d1b8b2606ea2b547efcdb1a5ea5de049db53e79078765c1450b34820fe0fd"
+    },
+    {
+      "symbol": "HBLD86",
+      "path": "03_stock_charts_ohlcv/HBLD86_OHLCV.csv",
+      "rows": 284,
+      "first_date": "2024-03-07",
+      "last_date": "2026-11-19",
+      "sha256": "027283d81b58e256527821848bedb09d754304b03825d7c0d619cd6480755eb1"
+    },
+    {
+      "symbol": "HBLPO",
+      "path": "03_stock_charts_ohlcv/HBLPO_OHLCV.csv",
+      "rows": 41,
+      "first_date": "2024-05-16",
+      "last_date": "2026-09-01",
+      "sha256": "6c592de0b01f0db127fe8c4ef7faa60853c297a1c5554d00421f1294b1c55f97"
+    },
+    {
+      "symbol": "HDHPC",
+      "path": "03_stock_charts_ohlcv/HDHPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "53a159f904552fa23241c5e3c6d330ff8f934662aa1d98b722aaffa19cd0498f"
+    },
+    {
+      "symbol": "HDL",
+      "path": "03_stock_charts_ohlcv/HDL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "30c5a7ef6ae58c9ba3bde7ea69ea6425fee4991c97c96e38499f351e2f44ca08"
+    },
+    {
+      "symbol": "HEI",
+      "path": "03_stock_charts_ohlcv/HEI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "19c8f4524231acc497a3d6c1599d4039ecd529276b1c1d81d2fe59c6fda4c128"
+    },
+    {
+      "symbol": "HEIP",
+      "path": "03_stock_charts_ohlcv/HEIP_OHLCV.csv",
+      "rows": 875,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "354f32cf5b0b1a61f363f98c439ca3617de59f2f4ef80df22c884a4751666764"
+    },
+    {
+      "symbol": "HFIN",
+      "path": "03_stock_charts_ohlcv/HFIN_OHLCV.csv",
+      "rows": 199,
+      "first_date": "2026-03-12",
+      "last_date": "2026-11-20",
+      "sha256": "65e07ccc5c3ea90ad9885c534319a671a5318370cefeaba11005e579c7cabfe7"
+    },
+    {
+      "symbol": "HHL",
+      "path": "03_stock_charts_ohlcv/HHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6c486fbe2050bb40c9b05ca5b68fdb680368d650a12738254d94de1af4d1584e"
+    },
+    {
+      "symbol": "HIDCL",
+      "path": "03_stock_charts_ohlcv/HIDCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "4775882f7ce9c439a1ac67231903b03631974b70b3fbd1af56f40769b81bedad"
+    },
+    {
+      "symbol": "HIDCLP",
+      "path": "03_stock_charts_ohlcv/HIDCLP_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "9d9d93878f56c86aa18cf2affec9bcd4e1b903e85aae9df26c4f65d45d5225ec"
+    },
+    {
+      "symbol": "HIMSTAR",
+      "path": "03_stock_charts_ohlcv/HIMSTAR_OHLCV.csv",
+      "rows": 390,
+      "first_date": "2025-09-01",
+      "last_date": "2026-11-20",
+      "sha256": "21ee6624cda25b74f19b3e3dc71aa4e9fdb43f7f273ff9c473906d553680b463"
+    },
+    {
+      "symbol": "HLBSL",
+      "path": "03_stock_charts_ohlcv/HLBSL_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fc2b020390c2e137111d469a5ad61484fb14f7f88bc1a77232c0f1dd0246004f"
+    },
+    {
+      "symbol": "HLI",
+      "path": "03_stock_charts_ohlcv/HLI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "492f2acf4931ba0827460bc45db02116c9cd5abf86851689f3b79e69afadff8e"
+    },
+    {
+      "symbol": "HLICF",
+      "path": "03_stock_charts_ohlcv/HLICF_OHLCV.csv",
+      "rows": 323,
+      "first_date": "2025-11-05",
+      "last_date": "2026-11-20",
+      "sha256": "2f06c1e613a5de99f5b57b622d8ee17b48d028d25819fcb4e97ac4f9e0ca18ef"
+    },
+    {
+      "symbol": "HLIPO",
+      "path": "03_stock_charts_ohlcv/HLIPO_OHLCV.csv",
+      "rows": 17,
+      "first_date": "2024-06-24",
+      "last_date": "2025-07-16",
+      "sha256": "0815fc80446a97c57660de5de42bc0d6bf5ddc305f0e1ad567ed5af2bd8aff01"
+    },
+    {
+      "symbol": "HPPL",
+      "path": "03_stock_charts_ohlcv/HPPL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "01347c233a60d8b58dbd6459098fadffe3ee823c5b066a811fd268511c8dc1ff"
+    },
+    {
+      "symbol": "HRL",
+      "path": "03_stock_charts_ohlcv/HRL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2aaac3df4b8bf236d1d1864fc5af96e6548eac95dc20c23f97cec82d0c972db3"
+    },
+    {
+      "symbol": "HURJA",
+      "path": "03_stock_charts_ohlcv/HURJA_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "29894cb5a91f8b11d883631847b72a209568667f6029a1faba4e803f0b829cf9"
+    },
+    {
+      "symbol": "ICFC",
+      "path": "03_stock_charts_ohlcv/ICFC_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "49f506fa87db603330f7ec54a59943a4f2f23402b68486e58dae5aa8c83e7795"
+    },
+    {
+      "symbol": "ICFCD83",
+      "path": "03_stock_charts_ohlcv/ICFCD83_OHLCV.csv",
+      "rows": 343,
+      "first_date": "2024-03-06",
+      "last_date": "2026-11-18",
+      "sha256": "81b1745697db2418885a02063369d94ce7d3c81317233afb09f8026ab32c9055"
+    },
+    {
+      "symbol": "ICFCD88",
+      "path": "03_stock_charts_ohlcv/ICFCD88_OHLCV.csv",
+      "rows": 463,
+      "first_date": "2025-03-09",
+      "last_date": "2026-11-20",
+      "sha256": "7bcdd1409c066923546bbc8a939a29805958270153beea4ba25ae380268029e9"
+    },
+    {
+      "symbol": "ICFCD89",
+      "path": "03_stock_charts_ohlcv/ICFCD89_OHLCV.csv",
+      "rows": 154,
+      "first_date": "2026-04-08",
+      "last_date": "2026-11-20",
+      "sha256": "fda7bad3ac19278ce4d52e36500d0e8cb3fb6217fe60ef8534dad792488c7a46"
+    },
+    {
+      "symbol": "ICFCPO",
+      "path": "03_stock_charts_ohlcv/ICFCPO_OHLCV.csv",
+      "rows": 4,
+      "first_date": "2024-12-26",
+      "last_date": "2025-08-26",
+      "sha256": "9ef2e04e8cb8132530d7d2cb56e20bb61d214272c383fd3505c2980c1d73adbb"
+    },
+    {
+      "symbol": "IGI",
+      "path": "03_stock_charts_ohlcv/IGI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "471882c164f6c31ea25a35a0e2ef1fc30a3729a13134af3dff4d466e54bd0858"
+    },
+    {
+      "symbol": "IGIPO",
+      "path": "03_stock_charts_ohlcv/IGIPO_OHLCV.csv",
+      "rows": 7,
+      "first_date": "2024-07-01",
+      "last_date": "2026-09-18",
+      "sha256": "4c77a523096237da041a5452c37c7ae12d20cee63fc48e5c1e67c61fe0a8a4c6"
+    },
+    {
+      "symbol": "IHL",
+      "path": "03_stock_charts_ohlcv/IHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "27a82a790c39be88d4c988f57f6b03e963997f881a43b1aa6e6bef938b6b8a65"
+    },
+    {
+      "symbol": "ILBS",
+      "path": "03_stock_charts_ohlcv/ILBS_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "90807c6a0a27a6c2bef95e0f1d68343fe560a7ad554733589a89ad5d322ea3ec"
+    },
+    {
+      "symbol": "ILBSP",
+      "path": "03_stock_charts_ohlcv/ILBSP_OHLCV.csv",
+      "rows": 49,
+      "first_date": "2024-03-26",
+      "last_date": "2026-11-20",
+      "sha256": "62c828f427d54c0e37646510938f5427fe557bbc382a94abd0f504c549322eee"
+    },
+    {
+      "symbol": "ILI",
+      "path": "03_stock_charts_ohlcv/ILI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8f371db9cf651323d444ace326069179a84b44c13065ec487e3e31a786450795"
+    },
+    {
+      "symbol": "JALPA",
+      "path": "03_stock_charts_ohlcv/JALPA_OHLCV.csv",
+      "rows": 129,
+      "first_date": "2024-03-04",
+      "last_date": "2024-07-10",
+      "sha256": "2b053871704b8914d7e2dbc9ab27989e409d14aea06c2e6b24ede90766df48a7"
+    },
+    {
+      "symbol": "JBBD87",
+      "path": "03_stock_charts_ohlcv/JBBD87_OHLCV.csv",
+      "rows": 405,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-04",
+      "sha256": "fb7323925354fb2255c829e40f4420a9a3b0d8654d1ac966e4719af3ec1dec26"
+    },
+    {
+      "symbol": "JBBL",
+      "path": "03_stock_charts_ohlcv/JBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fde0410f9630aa3ceed52d7676af904ce5801abc4f6b16adf93e0b84bf681d81"
+    },
+    {
+      "symbol": "JBBLPO",
+      "path": "03_stock_charts_ohlcv/JBBLPO_OHLCV.csv",
+      "rows": 43,
+      "first_date": "2024-03-18",
+      "last_date": "2026-10-01",
+      "sha256": "f9fefbf18fd8e10f26e8b8c545a22c514e27198c9f21d572a69fccb8ecae1069"
+    },
+    {
+      "symbol": "JBLB",
+      "path": "03_stock_charts_ohlcv/JBLB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0545ae92e35d4db11b396b212fa4bc2c9f203356d5f6874b77ba9e7f9f087c3c"
+    },
+    {
+      "symbol": "JBLBP",
+      "path": "03_stock_charts_ohlcv/JBLBP_OHLCV.csv",
+      "rows": 45,
+      "first_date": "2024-12-08",
+      "last_date": "2026-05-26",
+      "sha256": "7c16bc39fe7db2475d8c2f35849a1ec973150aab71abcaeed9d57f2fd9899cb4"
+    },
+    {
+      "symbol": "JFL",
+      "path": "03_stock_charts_ohlcv/JFL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c36268b2080d85a2fcc8ef77b7d30227656a4d10cf88d340a5339fda69025d47"
+    },
+    {
+      "symbol": "JFLPO",
+      "path": "03_stock_charts_ohlcv/JFLPO_OHLCV.csv",
+      "rows": 10,
+      "first_date": "2024-03-10",
+      "last_date": "2024-09-10",
+      "sha256": "f9101dd1360e8d591073ae7d6d9fedfbbc084aa952dd5c6a4e66be15852f7766"
+    },
+    {
+      "symbol": "JHAPA",
+      "path": "03_stock_charts_ohlcv/JHAPA_OHLCV.csv",
+      "rows": 313,
+      "first_date": "2025-11-16",
+      "last_date": "2026-11-20",
+      "sha256": "2c93a790828f1b72461a6a9afbaa96e3c6ccb483badb65946eafbac67dc3b32a"
+    },
+    {
+      "symbol": "JOSHI",
+      "path": "03_stock_charts_ohlcv/JOSHI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3f7dca03e0b043580e905d00bcb9ba002f0aa5bc459114f32ae9c45e8bb42e01"
+    },
+    {
+      "symbol": "JSLBB",
+      "path": "03_stock_charts_ohlcv/JSLBB_OHLCV.csv",
+      "rows": 929,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2ea6d3097293c5b63f1e1a53511a27f42e8234c3b4e6d97806d6a38c4b9766bf"
+    },
+    {
+      "symbol": "JSLBBP",
+      "path": "03_stock_charts_ohlcv/JSLBBP_OHLCV.csv",
+      "rows": 5,
+      "first_date": "2024-04-02",
+      "last_date": "2025-11-09",
+      "sha256": "e250017546ce2232c90e28b2fb09501ea40fd26eb07b2df844fd23981a020f30"
+    },
+    {
+      "symbol": "KAHL",
+      "path": "03_stock_charts_ohlcv/KAHL_OHLCV.csv",
+      "rows": 87,
+      "first_date": "2026-07-02",
+      "last_date": "2026-11-20",
+      "sha256": "274d37433155d491f120e5c463366b34f3d49681897f42808ed40dc81196feb6"
+    },
+    {
+      "symbol": "KBL",
+      "path": "03_stock_charts_ohlcv/KBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ebcfaf96d6bf2edef7dc1b8a840e0e87310844873593314d741f5c0f5e94ea88"
+    },
+    {
+      "symbol": "KBLD86",
+      "path": "03_stock_charts_ohlcv/KBLD86_OHLCV.csv",
+      "rows": 211,
+      "first_date": "2024-03-06",
+      "last_date": "2026-11-05",
+      "sha256": "15fe1cb067c71e4fa6218eb173e21d508ab3a7c7cce91c3397dad12ca0f577e6"
+    },
+    {
+      "symbol": "KBLD89",
+      "path": "03_stock_charts_ohlcv/KBLD89_OHLCV.csv",
+      "rows": 283,
+      "first_date": "2024-03-12",
+      "last_date": "2026-10-27",
+      "sha256": "4d1ccba5e8872147b9553d741f27d50c3c7610960bf24ee7fc0620a04aadb126"
+    },
+    {
+      "symbol": "KBLD90",
+      "path": "03_stock_charts_ohlcv/KBLD90_OHLCV.csv",
+      "rows": 153,
+      "first_date": "2024-08-11",
+      "last_date": "2026-09-29",
+      "sha256": "a10b3bbdbf968f4f1e84dd6006f798084d57d35bbee4c68d9499556bc8cca520"
+    },
+    {
+      "symbol": "KBLPO",
+      "path": "03_stock_charts_ohlcv/KBLPO_OHLCV.csv",
+      "rows": 97,
+      "first_date": "2024-03-13",
+      "last_date": "2026-10-02",
+      "sha256": "efdc5cefe889d04737883fd686d75a55c58d663150d2efa04c5133a411704807"
+    },
+    {
+      "symbol": "KBSH",
+      "path": "03_stock_charts_ohlcv/KBSH_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "efc07dddad10e1aab69eaf42a37860c22d6e5460784563d99f9c190fcc35229b"
+    },
+    {
+      "symbol": "KDBY",
+      "path": "03_stock_charts_ohlcv/KDBY_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "4616d3b6421bddb6e66c82128358d7d7309ea50269aaee38b9ea8413a9f9fbb7"
+    },
+    {
+      "symbol": "KDL",
+      "path": "03_stock_charts_ohlcv/KDL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "92ba1183e3fdc2eca6b6fff58ffbf4a654913123190ef8ed12e373b9f252e543"
+    },
+    {
+      "symbol": "KEF",
+      "path": "03_stock_charts_ohlcv/KEF_OHLCV.csv",
+      "rows": 928,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "d481e965b9509af9bf6b4c76fcb621345d62cb0158dcde3b1c7d467559770106"
+    },
+    {
+      "symbol": "KHPL",
+      "path": "03_stock_charts_ohlcv/KHPL_OHLCV.csv",
+      "rows": 124,
+      "first_date": "2026-05-26",
+      "last_date": "2026-11-20",
+      "sha256": "6baf01af83505d7a0bdfe19dc36df52414c0cb3bbe923f080822edaec16fd8ef"
+    },
+    {
+      "symbol": "KKHC",
+      "path": "03_stock_charts_ohlcv/KKHC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "043bca3c55be7da2ad4cd66425afe0258fa1621c82e62581e9b25b56499eec91"
+    },
+    {
+      "symbol": "KLBSL",
+      "path": "03_stock_charts_ohlcv/KLBSL_OHLCV.csv",
+      "rows": 128,
+      "first_date": "2024-03-05",
+      "last_date": "2024-07-10",
+      "sha256": "76484225310886dd52b48f8fc3bcf73dcff7ee299699dbea23b2e2d0c06fbba9"
+    },
+    {
+      "symbol": "KLBSLP",
+      "path": "03_stock_charts_ohlcv/KLBSLP_OHLCV.csv",
+      "rows": 5,
+      "first_date": "2024-06-20",
+      "last_date": "2024-06-30",
+      "sha256": "145c46fbae6fc0bf6c4b9eaa803e5982f8e2eb2cdcd58a1b04b0b0e0aec8d1b0"
+    },
+    {
+      "symbol": "KMCDB",
+      "path": "03_stock_charts_ohlcv/KMCDB_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d006b656d3a0d8b3e34becb4a4f7679b39aafdaf89162a7bc153d191f2af097c"
+    },
+    {
+      "symbol": "KMCDBP",
+      "path": "03_stock_charts_ohlcv/KMCDBP_OHLCV.csv",
+      "rows": 10,
+      "first_date": "2025-01-22",
+      "last_date": "2026-06-09",
+      "sha256": "5ce2815f8c0a989f557c3f79bdf4ef14e2656f62b622bcf8c724d44bd6fd228a"
+    },
+    {
+      "symbol": "KPCL",
+      "path": "03_stock_charts_ohlcv/KPCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "80b81473ac83ca13b77b34685385d015a93b9682564e4dab17c41fb539a19692"
+    },
+    {
+      "symbol": "KRBL",
+      "path": "03_stock_charts_ohlcv/KRBL_OHLCV.csv",
+      "rows": 296,
+      "first_date": "2024-03-04",
+      "last_date": "2024-12-25",
+      "sha256": "d74474ba43294f36bd3dc2be5ac2e04506f5fefd7c4fc89348088f8452fd675d"
+    },
+    {
+      "symbol": "KSBBL",
+      "path": "03_stock_charts_ohlcv/KSBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "41e0e413a73bdbfa028f1715c1170425fd7464bde07f46fc5ea2dba44ac6be08"
+    },
+    {
+      "symbol": "KSBBLD87",
+      "path": "03_stock_charts_ohlcv/KSBBLD87_OHLCV.csv",
+      "rows": 407,
+      "first_date": "2024-03-05",
+      "last_date": "2026-10-29",
+      "sha256": "8c493ed0d891fc277922b798a90781ed74c0e24de59688c12106dddcc6e45112"
+    },
+    {
+      "symbol": "KSBBLP",
+      "path": "03_stock_charts_ohlcv/KSBBLP_OHLCV.csv",
+      "rows": 28,
+      "first_date": "2024-03-20",
+      "last_date": "2026-10-07",
+      "sha256": "5bf365fc3363c2d0f6a6dd110454c3eb52f8eaca39f9f376e2e85ad21ff40d2c"
+    },
+    {
+      "symbol": "KSY",
+      "path": "03_stock_charts_ohlcv/KSY_OHLCV.csv",
+      "rows": 850,
+      "first_date": "2024-05-05",
+      "last_date": "2026-11-20",
+      "sha256": "97b6b2648a03c34929cd30b256c687aa1f856d58734f5249579d94641f81b95f"
+    },
+    {
+      "symbol": "LBBL",
+      "path": "03_stock_charts_ohlcv/LBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1cd2a480c6e1927032ed868b00ea5970dbee9811278295ab800c846db6cfae01"
+    },
+    {
+      "symbol": "LBBLD89",
+      "path": "03_stock_charts_ohlcv/LBBLD89_OHLCV.csv",
+      "rows": 347,
+      "first_date": "2024-04-02",
+      "last_date": "2026-11-18",
+      "sha256": "baa6095b979c0878cdf9ff75526580abbb478b9ebb4f69dfd40e3481789b3d91"
+    },
+    {
+      "symbol": "LBBLPO",
+      "path": "03_stock_charts_ohlcv/LBBLPO_OHLCV.csv",
+      "rows": 6,
+      "first_date": "2024-03-14",
+      "last_date": "2026-11-17",
+      "sha256": "6a3a915801212653fc7d8c92a4c138cdb5ce37789ba56c2e8bc40cd5e29b9c62"
+    },
+    {
+      "symbol": "LBLD86",
+      "path": "03_stock_charts_ohlcv/LBLD86_OHLCV.csv",
+      "rows": 99,
+      "first_date": "2024-03-06",
+      "last_date": "2026-11-04",
+      "sha256": "7432db761aa6595edcbf953477f22e110449961e7910d5aa2136676b3f4e1296"
+    },
+    {
+      "symbol": "LBLD88",
+      "path": "03_stock_charts_ohlcv/LBLD88_OHLCV.csv",
+      "rows": 197,
+      "first_date": "2024-03-05",
+      "last_date": "2026-09-30",
+      "sha256": "4be40b71f260ccb86c14a1b0bfae8409161d45fd0f29b453c12ee52adcf43cbf"
+    },
+    {
+      "symbol": "LEC",
+      "path": "03_stock_charts_ohlcv/LEC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c4ddba823ff19f5d9d4020d5957ed69165571567600bb926616841c2a67b4162"
+    },
+    {
+      "symbol": "LEMF",
+      "path": "03_stock_charts_ohlcv/LEMF_OHLCV.csv",
+      "rows": 90,
+      "first_date": "2024-03-05",
+      "last_date": "2024-06-09",
+      "sha256": "4f640565d365450a96744aa3bf69272771f8d4ff182e9792081225aba17ad194"
+    },
+    {
+      "symbol": "LICN",
+      "path": "03_stock_charts_ohlcv/LICN_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "09d25b84d3686dcf49962fb2d039e1636c5b78cf62220107e1f59843db7a3dbb"
+    },
+    {
+      "symbol": "LLBS",
+      "path": "03_stock_charts_ohlcv/LLBS_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "729e17ef556b55fde6aba805a3472d97039c426d3cc22fa831fa840c593b0583"
+    },
+    {
+      "symbol": "LSD92",
+      "path": "03_stock_charts_ohlcv/LSD92_OHLCV.csv",
+      "rows": 29,
+      "first_date": "2026-09-28",
+      "last_date": "2026-11-20",
+      "sha256": "97e0287384eb13c5c26e46fa5e9852df096c6cb3500eb6ca13af713de2fa0ae2"
+    },
+    {
+      "symbol": "LSH12",
+      "path": "03_stock_charts_ohlcv/LSH12_OHLCV.csv",
+      "rows": 62,
+      "first_date": "2026-08-06",
+      "last_date": "2026-11-20",
+      "sha256": "a032c9bbdb10f861ec167350796a7246d2b24b7ae583031f4a6417ff04ed5abc"
+    },
+    {
+      "symbol": "LSL",
+      "path": "03_stock_charts_ohlcv/LSL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "13ca0ec4e6416a3e552eeb22561fbbe123e9e5a5cf55ca3e3dee7d545b05d70a"
+    },
+    {
+      "symbol": "LSLPO",
+      "path": "03_stock_charts_ohlcv/LSLPO_OHLCV.csv",
+      "rows": 57,
+      "first_date": "2024-04-21",
+      "last_date": "2026-10-29",
+      "sha256": "7c0a0de7c8a3760fd914fea67723040d3b3cda03cd9d58558d9a1f6ad4d4ee09"
+    },
+    {
+      "symbol": "LUK",
+      "path": "03_stock_charts_ohlcv/LUK_OHLCV.csv",
+      "rows": 910,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "b286adbd08cb782d8b5caa98a95469ed91ea51a1b6c1d2ab54256c2149a115de"
+    },
+    {
+      "symbol": "LVF2",
+      "path": "03_stock_charts_ohlcv/LVF2_OHLCV.csv",
+      "rows": 919,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "9dfcd7b68652e3fca4bfe7390ea2f80bd429098dedaabc1f7507d9700d844462"
+    },
+    {
+      "symbol": "MABEL",
+      "path": "03_stock_charts_ohlcv/MABEL_OHLCV.csv",
+      "rows": 326,
+      "first_date": "2025-11-04",
+      "last_date": "2026-11-20",
+      "sha256": "3755d823bf627382260401b730e21d0e8cdac4a2df52eaf4044dcdf313ea3e90"
+    },
+    {
+      "symbol": "MAKAR",
+      "path": "03_stock_charts_ohlcv/MAKAR_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b387952a2b4e9579a51a27ba3a4cb3d5a77268f4b827507efa6418ec046af21d"
+    },
+    {
+      "symbol": "MANDU",
+      "path": "03_stock_charts_ohlcv/MANDU_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e34e58b8ec85fc3f932f71b879a813ce08343c035575176ae82d3268b2e64414"
+    },
+    {
+      "symbol": "MATRI",
+      "path": "03_stock_charts_ohlcv/MATRI_OHLCV.csv",
+      "rows": 773,
+      "first_date": "2024-08-13",
+      "last_date": "2026-11-20",
+      "sha256": "e32ecb1749650d1594aec568c6f45f910e4b98f32ef157f154684c9b3bf6c65e"
+    },
+    {
+      "symbol": "MATRIP",
+      "path": "03_stock_charts_ohlcv/MATRIP_OHLCV.csv",
+      "rows": 34,
+      "first_date": "2024-10-07",
+      "last_date": "2026-11-20",
+      "sha256": "5c1a1c5b602073e9ccf27e36abb08a91e44ce6bc4ddd80649094a29b7b530195"
+    },
+    {
+      "symbol": "MBJC",
+      "path": "03_stock_charts_ohlcv/MBJC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d3cb9213cc3b4783463553865d450b31bc60047f396a6b89356c71496167cd54"
+    },
+    {
+      "symbol": "MBL",
+      "path": "03_stock_charts_ohlcv/MBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bfaefe08b5cb6aa93ecbd0ac5cac34759cbc0edb478a709d66de71c8b9f7c2a8"
+    },
+    {
+      "symbol": "MBLD2085",
+      "path": "03_stock_charts_ohlcv/MBLD2085_OHLCV.csv",
+      "rows": 122,
+      "first_date": "2024-03-06",
+      "last_date": "2026-08-06",
+      "sha256": "dd89e2aa5ad1c12ce5ac174ad48f12e935a500c041a4142dbc28e08da0f8f3cc"
+    },
+    {
+      "symbol": "MBLD87",
+      "path": "03_stock_charts_ohlcv/MBLD87_OHLCV.csv",
+      "rows": 308,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-04",
+      "sha256": "2a0f92af358f1fee219b66f13ee4e196ec431f2ba2ea226cc56101f053935ec7"
+    },
+    {
+      "symbol": "MBLEF",
+      "path": "03_stock_charts_ohlcv/MBLEF_OHLCV.csv",
+      "rows": 487,
+      "first_date": "2025-05-22",
+      "last_date": "2026-11-20",
+      "sha256": "0b12b73009541c034ec09d02b9334eec0cc6c209e39d9045f23e3fbc6d790762"
+    },
+    {
+      "symbol": "MBLPO",
+      "path": "03_stock_charts_ohlcv/MBLPO_OHLCV.csv",
+      "rows": 20,
+      "first_date": "2024-03-21",
+      "last_date": "2026-07-02",
+      "sha256": "838fd1317a30a0f069ed5a5c3a2c32f038472dd080a0d46ca6aea256621e9777"
+    },
+    {
+      "symbol": "MCHL",
+      "path": "03_stock_charts_ohlcv/MCHL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0df465de8b4bc630df23b6cb45d5c5e81727fd060690aaadcf1e33ef75e442fa"
+    },
+    {
+      "symbol": "MDB",
+      "path": "03_stock_charts_ohlcv/MDB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a9fb516c59247fd42eab0a4692a37e335e7835e9d5c3a4955ce741f19bf16405"
+    },
+    {
+      "symbol": "MDBPO",
+      "path": "03_stock_charts_ohlcv/MDBPO_OHLCV.csv",
+      "rows": 11,
+      "first_date": "2024-07-11",
+      "last_date": "2026-11-20",
+      "sha256": "ef26ef188e031fbd211a31ba1f2a988e003128e09b68a37ca99cc28b596cfd07"
+    },
+    {
+      "symbol": "MEHL",
+      "path": "03_stock_charts_ohlcv/MEHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0d1ec2c5ebaa85b588277fd59c5684ed620d880d39e1d7080e3e637919f73457"
+    },
+    {
+      "symbol": "MEL",
+      "path": "03_stock_charts_ohlcv/MEL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e0d8aacc54114ef1fa61169b9c42f24df621a13aaf9f0df23c97d4722ee16001"
+    },
+    {
+      "symbol": "MEN",
+      "path": "03_stock_charts_ohlcv/MEN_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "136196b924a3497d327073520834ccbeb5854acd61277b5db868e12fdcdb1cd7"
+    },
+    {
+      "symbol": "MEPDL",
+      "path": "03_stock_charts_ohlcv/MEPDL_OHLCV.csv",
+      "rows": 58,
+      "first_date": "2026-08-12",
+      "last_date": "2026-11-20",
+      "sha256": "679aa89c292c655252a44fd4a10108435f41a07faf9ee82847611273e9cfa698"
+    },
+    {
+      "symbol": "MERO",
+      "path": "03_stock_charts_ohlcv/MERO_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2a37013f71e6f4d6073320ea5cf945676bf4fe2831de9d091be6d2f49fc11f43"
+    },
+    {
+      "symbol": "MFIL",
+      "path": "03_stock_charts_ohlcv/MFIL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3984c592d2e606a37cf02d3489763a65de392f2600dd902b3267e6b7b0c3cda5"
+    },
+    {
+      "symbol": "MFILPO",
+      "path": "03_stock_charts_ohlcv/MFILPO_OHLCV.csv",
+      "rows": 6,
+      "first_date": "2024-04-09",
+      "last_date": "2026-10-05",
+      "sha256": "1270372c3c28d3d426a13360fcd7eae474a1d1e508622bf4467a24eb05475096"
+    },
+    {
+      "symbol": "MFLD85",
+      "path": "03_stock_charts_ohlcv/MFLD85_OHLCV.csv",
+      "rows": 350,
+      "first_date": "2024-03-12",
+      "last_date": "2026-11-03",
+      "sha256": "0f04d5c01f6a74012e4cf889030e18adbc9d7efa39c76dc9eb915ca96b347690"
+    },
+    {
+      "symbol": "MHCL",
+      "path": "03_stock_charts_ohlcv/MHCL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e9af7c02daa0c4723eaf1c7ec3f9fe1f923165f1cf18e6179e2cb71892562117"
+    },
+    {
+      "symbol": "MHL",
+      "path": "03_stock_charts_ohlcv/MHL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a29cec300262a6d9c65a5f079a98032286f1751abb2e3f03e98138eac3beea67"
+    },
+    {
+      "symbol": "MHNL",
+      "path": "03_stock_charts_ohlcv/MHNL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0b379e49876998511b2d98a7b54b81b7e0efb121f142298679d3b000b9fa44ac"
+    },
+    {
+      "symbol": "MKCL",
+      "path": "03_stock_charts_ohlcv/MKCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "07d97073882a6c1d50d1a328c227bb2d06fd4980d67c1572429840f292b6daa3"
+    },
+    {
+      "symbol": "MKHC",
+      "path": "03_stock_charts_ohlcv/MKHC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e4b9eb71d6f5294477993256c20c79d1711b1bcd367b6a90d993952689773b62"
+    },
+    {
+      "symbol": "MKHL",
+      "path": "03_stock_charts_ohlcv/MKHL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "492d288da6f28aabb03ebc95948135cefb0fdb80bd19b37bbf07141a156bfa2f"
+    },
+    {
+      "symbol": "MKJC",
+      "path": "03_stock_charts_ohlcv/MKJC_OHLCV.csv",
+      "rows": 928,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b021cd4124cf5edea1b28207f6ce79818b9142edaa889396faa10e3d85c84a7c"
+    },
+    {
+      "symbol": "MKLB",
+      "path": "03_stock_charts_ohlcv/MKLB_OHLCV.csv",
+      "rows": 126,
+      "first_date": "2024-03-04",
+      "last_date": "2024-07-07",
+      "sha256": "4a3e075660f570b71801a9ccf03805e7f25c4ac574e67a66222b6634ccf89e1c"
+    },
+    {
+      "symbol": "MLBBL",
+      "path": "03_stock_charts_ohlcv/MLBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b666c193b31937fe45999d3639d07340cef4d8d284c15c3cd5354acfd70f4ed5"
+    },
+    {
+      "symbol": "MLBBLP",
+      "path": "03_stock_charts_ohlcv/MLBBLP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2025-04-08",
+      "last_date": "2025-04-08",
+      "sha256": "4b95745485393ceef22e33781093a6cca767bfecdebc1500990fa8ac783e51e7"
+    },
+    {
+      "symbol": "MLBL",
+      "path": "03_stock_charts_ohlcv/MLBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7ecbaf0c39f04b1da1f44c2ca9eac4431c58d44a18f10dec3d66e24e322d9458"
+    },
+    {
+      "symbol": "MLBLD89",
+      "path": "03_stock_charts_ohlcv/MLBLD89_OHLCV.csv",
+      "rows": 224,
+      "first_date": "2024-04-29",
+      "last_date": "2026-11-20",
+      "sha256": "536ba1c216627c456098cc59b3b3da9559434010168cef4ba9ec9819d4c3dbaa"
+    },
+    {
+      "symbol": "MLBLPO",
+      "path": "03_stock_charts_ohlcv/MLBLPO_OHLCV.csv",
+      "rows": 28,
+      "first_date": "2024-06-18",
+      "last_date": "2026-09-28",
+      "sha256": "49144ed820303f6048a8a771aad132ccaaad00de6135fd42da05f740a3208ca5"
+    },
+    {
+      "symbol": "MLBS",
+      "path": "03_stock_charts_ohlcv/MLBS_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "33c6556845b740f8b7c2957a5b5f9549e5a36f73dedd36c5c0db3080642776cd"
+    },
+    {
+      "symbol": "MLBSL",
+      "path": "03_stock_charts_ohlcv/MLBSL_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "00f1a217eba34cb88fc283456d9c5d3cae51ff39ada6e71e78918fc400945c22"
+    },
+    {
+      "symbol": "MLBSLP",
+      "path": "03_stock_charts_ohlcv/MLBSLP_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2025-03-11",
+      "last_date": "2026-01-20",
+      "sha256": "3afe36eb17d799619bbacd28187d7a5de44f413362b36856d3a7aa3cc5626183"
+    },
+    {
+      "symbol": "MLBSP",
+      "path": "03_stock_charts_ohlcv/MLBSP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2026-05-18",
+      "last_date": "2026-05-18",
+      "sha256": "17e2d898a18c7f29b56b5c888e309b9dd409c2386e4d1d74ede0bae7a1f8300e"
+    },
+    {
+      "symbol": "MMF1",
+      "path": "03_stock_charts_ohlcv/MMF1_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "8bbcae53e706f086a23e6b3fa0eb0b69f343b006c3b67a82f6702d308eb96797"
+    },
+    {
+      "symbol": "MMFDB",
+      "path": "03_stock_charts_ohlcv/MMFDB_OHLCV.csv",
+      "rows": 9,
+      "first_date": "2024-03-04",
+      "last_date": "2024-03-12",
+      "sha256": "54889d2d2614d7033b1e7f0d8b27fbcb63840797c23abf4e73dbea488bbc5983"
+    },
+    {
+      "symbol": "MMFDBP",
+      "path": "03_stock_charts_ohlcv/MMFDBP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2024-03-12",
+      "last_date": "2024-03-12",
+      "sha256": "94e935bc011566242419970f15226d7010fa160c217907a06881526e3f48b3f1"
+    },
+    {
+      "symbol": "MMKJL",
+      "path": "03_stock_charts_ohlcv/MMKJL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "09c6ef317488af3f878f0ea32fc8a6891685cdfc3c341b7838d2756117f73352"
+    },
+    {
+      "symbol": "MNBBL",
+      "path": "03_stock_charts_ohlcv/MNBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "5a5790b5e6a8e495649460921035357e79cec3a37a5ce982e571be26db374d36"
+    },
+    {
+      "symbol": "MNBBLP",
+      "path": "03_stock_charts_ohlcv/MNBBLP_OHLCV.csv",
+      "rows": 44,
+      "first_date": "2024-03-19",
+      "last_date": "2026-10-27",
+      "sha256": "a57eda2b810dd95da3c21b30f0b75c7abb79e9ee2a11c83b233a03b812ac07ee"
+    },
+    {
+      "symbol": "MND84/85",
+      "path": "03_stock_charts_ohlcv/MND84~2F85_OHLCV.csv",
+      "rows": 283,
+      "first_date": "2024-05-21",
+      "last_date": "2026-10-14",
+      "sha256": "cc024fe85075ecb43af2db470a95728b2126251205f257decea249de320314ad"
+    },
+    {
+      "symbol": "MNMF1",
+      "path": "03_stock_charts_ohlcv/MNMF1_OHLCV.csv",
+      "rows": 617,
+      "first_date": "2025-01-16",
+      "last_date": "2026-11-20",
+      "sha256": "723f9f28723a8d7c3084a3a5542459e85a513eaf049bb8bda4d284ba91be5dda"
+    },
+    {
+      "symbol": "MNMF2",
+      "path": "03_stock_charts_ohlcv/MNMF2_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2026-11-20",
+      "last_date": "2026-11-20",
+      "sha256": "96eb0e2b6ce0953ac237e4d28c1f93c51f7ec42f810bb2896ff9596c0b46a64f"
+    },
+    {
+      "symbol": "MPFL",
+      "path": "03_stock_charts_ohlcv/MPFL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d6a913f122f25ac835f074e7ba91c7a6bf7ec14baffefff0de2e05bf10fba362"
+    },
+    {
+      "symbol": "MPFLPO",
+      "path": "03_stock_charts_ohlcv/MPFLPO_OHLCV.csv",
+      "rows": 4,
+      "first_date": "2024-03-14",
+      "last_date": "2025-06-23",
+      "sha256": "61a709e904d87eb9ce964b0f9840abd20d5514b430009f9dbca94be30afb0940"
+    },
+    {
+      "symbol": "MSHL",
+      "path": "03_stock_charts_ohlcv/MSHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "42a600e40e36cf66e26c3c90c707c1fe76285aa227dc0f7ab04e6c012a6238b7"
+    },
+    {
+      "symbol": "MSLB",
+      "path": "03_stock_charts_ohlcv/MSLB_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "72e2febd0adab150823363335a35280464a4a2831fe237ca9eafe028a762de8b"
+    },
+    {
+      "symbol": "MSLBP",
+      "path": "03_stock_charts_ohlcv/MSLBP_OHLCV.csv",
+      "rows": 30,
+      "first_date": "2024-04-15",
+      "last_date": "2026-07-23",
+      "sha256": "cbdb65b268de0834cfe0b623ac67472d97758fd9cf4564e1af4e04b6dc90547d"
+    },
+    {
+      "symbol": "NABBC",
+      "path": "03_stock_charts_ohlcv/NABBC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7b6177ea3eae1cad08a8a25904a8d7307e71c5e4ce46b2fef6c3271de7dd70ac"
+    },
+    {
+      "symbol": "NABBCP",
+      "path": "03_stock_charts_ohlcv/NABBCP_OHLCV.csv",
+      "rows": 13,
+      "first_date": "2024-08-05",
+      "last_date": "2024-12-21",
+      "sha256": "2d6cad1678511d47d7afe77da87f947e20b03d125bfe631eac680f006dc4ef49"
+    },
+    {
+      "symbol": "NABIL",
+      "path": "03_stock_charts_ohlcv/NABIL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "460b9256c5f2f87773b6cf14a765a35c3d9c71deaf52e3f481a2e283a49d8b9b"
+    },
+    {
+      "symbol": "NABILD2089",
+      "path": "03_stock_charts_ohlcv/NABILD2089_OHLCV.csv",
+      "rows": 203,
+      "first_date": "2025-11-16",
+      "last_date": "2026-11-20",
+      "sha256": "cde29cff9332e9af9bbcfddef93a359e76aec2b370f9dacd698a4ddc8b55df82"
+    },
+    {
+      "symbol": "NABILD87",
+      "path": "03_stock_charts_ohlcv/NABILD87_OHLCV.csv",
+      "rows": 318,
+      "first_date": "2024-03-31",
+      "last_date": "2026-11-20",
+      "sha256": "51fd1a20453c84aa00693aa9dc88d36ecd1210e02a8e9488bb66afa830b679c2"
+    },
+    {
+      "symbol": "NABILP",
+      "path": "03_stock_charts_ohlcv/NABILP_OHLCV.csv",
+      "rows": 3,
+      "first_date": "2024-10-27",
+      "last_date": "2026-09-24",
+      "sha256": "50c6dcdca3bcfca67709cd10d1713e1e669977a979970d9e52038aaf9ed8eacf"
+    },
+    {
+      "symbol": "NADEP",
+      "path": "03_stock_charts_ohlcv/NADEP_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "37ee2d83ce90db0a6106099347780e1ad5d0ce633d6d6892444b933b933fefed"
+    },
+    {
+      "symbol": "NBBD2085",
+      "path": "03_stock_charts_ohlcv/NBBD2085_OHLCV.csv",
+      "rows": 165,
+      "first_date": "2024-04-09",
+      "last_date": "2026-11-18",
+      "sha256": "01e287bd925a08c7370e547ca1e41869e8fc31d06a0560f2df5d5ecef5c13065"
+    },
+    {
+      "symbol": "NBF2",
+      "path": "03_stock_charts_ohlcv/NBF2_OHLCV.csv",
+      "rows": 921,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "062ca3b2122d56560f0911190b944990872d84a4e8a9374624ed53b543e4332f"
+    },
+    {
+      "symbol": "NBF3",
+      "path": "03_stock_charts_ohlcv/NBF3_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "cbea7f491b12c39689db202c8758cf5f48be0f71e0aa7878c68d2ecb7f8fcec4"
+    },
+    {
+      "symbol": "NBL",
+      "path": "03_stock_charts_ohlcv/NBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b2c8ca7541649a3e1972f6b903309bd836c4823424d559147db61b006d9a8b9c"
+    },
+    {
+      "symbol": "NBLD82",
+      "path": "03_stock_charts_ohlcv/NBLD82_OHLCV.csv",
+      "rows": 227,
+      "first_date": "2024-03-28",
+      "last_date": "2026-10-27",
+      "sha256": "f7613ad95f52c3dd8fbec71595d1773e9514875a2f2f78cf53c604215cf1404a"
+    },
+    {
+      "symbol": "NBLD85",
+      "path": "03_stock_charts_ohlcv/NBLD85_OHLCV.csv",
+      "rows": 475,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "d148681437b557347eeade0c9740295ac48a6149fbbeec6cd343fc8cecee899b"
+    },
+    {
+      "symbol": "NBLD87",
+      "path": "03_stock_charts_ohlcv/NBLD87_OHLCV.csv",
+      "rows": 559,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "205051e16a0389331df1a15984827d74e88a233b896d1546ce83e650075eb256"
+    },
+    {
+      "symbol": "NCCD86",
+      "path": "03_stock_charts_ohlcv/NCCD86_OHLCV.csv",
+      "rows": 324,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-04",
+      "sha256": "3fa12d7132edcada88c1d80b07d36264c5a085438deff58b24b3d3e7f6bc718e"
+    },
+    {
+      "symbol": "NESDO",
+      "path": "03_stock_charts_ohlcv/NESDO_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "60cc23bfb7accb62b35ea60f54b80d2beb95c2ef7cc4a5e4ce512fd3885af149"
+    },
+    {
+      "symbol": "NFS",
+      "path": "03_stock_charts_ohlcv/NFS_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3ba6b2702c11268aca14da25d63859b9cfb332c9ff7e35148ad96821b97b375e"
+    },
+    {
+      "symbol": "NFSPO",
+      "path": "03_stock_charts_ohlcv/NFSPO_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2024-08-25",
+      "last_date": "2024-08-26",
+      "sha256": "7296943aeaf997eabf6806c9d0868d0f138b48192b4ffde60f8e17a4e2a29d57"
+    },
+    {
+      "symbol": "NGPL",
+      "path": "03_stock_charts_ohlcv/NGPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c2a45875bd2188f34b7ea753aea355a02f6435e42964ffed89aedf9208ffd0b8"
+    },
+    {
+      "symbol": "NHDL",
+      "path": "03_stock_charts_ohlcv/NHDL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "5918bda6a0ecef0415591e50e0bcee3982545800ad9a5e5168b749f31388f602"
+    },
+    {
+      "symbol": "NHPC",
+      "path": "03_stock_charts_ohlcv/NHPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "08964c783b33a3fa4ee85af60ca689ab1cbed7b03be8db14e914b27f41a53123"
+    },
+    {
+      "symbol": "NIBD2082",
+      "path": "03_stock_charts_ohlcv/NIBD2082_OHLCV.csv",
+      "rows": 246,
+      "first_date": "2024-03-05",
+      "last_date": "2026-06-16",
+      "sha256": "0adeedb7e7c935921dd252723d0eff9976c9799a181d0fe17e4db3b6daef9e52"
+    },
+    {
+      "symbol": "NIBD84",
+      "path": "03_stock_charts_ohlcv/NIBD84_OHLCV.csv",
+      "rows": 461,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-04",
+      "sha256": "ae8a118fdfa952b35761fb5ff2262f11d0e014418eb414e21263a311a2323619"
+    },
+    {
+      "symbol": "NIBLGF",
+      "path": "03_stock_charts_ohlcv/NIBLGF_OHLCV.csv",
+      "rows": 916,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "ef825d9efad4c38fa957c4274b12f69aa3d63c9d12516b9068a4f61ead6844e9"
+    },
+    {
+      "symbol": "NIBLSTF",
+      "path": "03_stock_charts_ohlcv/NIBLSTF_OHLCV.csv",
+      "rows": 840,
+      "first_date": "2024-06-03",
+      "last_date": "2026-11-20",
+      "sha256": "0fbc86d4ded1df9d1bf0af1d80f564f3eda56a52cc1fabfbbc44f3884c2bf3f6"
+    },
+    {
+      "symbol": "NIBSF2",
+      "path": "03_stock_charts_ohlcv/NIBSF2_OHLCV.csv",
+      "rows": 928,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b3d7770520f1ae92ef24e9230e3e348c8354aa5a94cc0922939f7f3708e7ef28"
+    },
+    {
+      "symbol": "NICA",
+      "path": "03_stock_charts_ohlcv/NICA_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "05624179024c9d79a896c2d810bf2c1d63371f75eb1d1b3d8bd2cf547134dbeb"
+    },
+    {
+      "symbol": "NICAD 85/86",
+      "path": "03_stock_charts_ohlcv/NICAD~2085~2F86_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2024-05-07",
+      "last_date": "2024-05-08",
+      "sha256": "9fc729dd18112fce65c2fa2b94b270f4a09b1b573c8558980746729850ba7202"
+    },
+    {
+      "symbol": "NICAD2091",
+      "path": "03_stock_charts_ohlcv/NICAD2091_OHLCV.csv",
+      "rows": 264,
+      "first_date": "2025-10-07",
+      "last_date": "2026-11-19",
+      "sha256": "4ba87d8fac89a35a8f11bf46d6caaf323ee0830b6eb0efa13423e4efad705d28"
+    },
+    {
+      "symbol": "NICAD8182",
+      "path": "03_stock_charts_ohlcv/NICAD8182_OHLCV.csv",
+      "rows": 83,
+      "first_date": "2024-03-19",
+      "last_date": "2025-01-08",
+      "sha256": "86c71d7278bf04b1b2df51ec4f47dab74f3b60de6357ab505b5472dc4bbaf982"
+    },
+    {
+      "symbol": "NICAD8283",
+      "path": "03_stock_charts_ohlcv/NICAD8283_OHLCV.csv",
+      "rows": 343,
+      "first_date": "2024-03-05",
+      "last_date": "2025-09-17",
+      "sha256": "c55b84df6678615269eee6eff63a836d7b1d28dab83a1e6455644abe7b9504ee"
+    },
+    {
+      "symbol": "NICAD85/86",
+      "path": "03_stock_charts_ohlcv/NICAD85~2F86_OHLCV.csv",
+      "rows": 312,
+      "first_date": "2024-05-09",
+      "last_date": "2026-10-15",
+      "sha256": "7a0c6b7fa0ec7190c47f04598d6124b0434d700347ab9fe8aab542f0b006443f"
+    },
+    {
+      "symbol": "NICAP",
+      "path": "03_stock_charts_ohlcv/NICAP_OHLCV.csv",
+      "rows": 8,
+      "first_date": "2024-06-18",
+      "last_date": "2026-09-30",
+      "sha256": "34a58c749cb62cb33ec23978cbca7513b665153d603b6b3ffc40bc8026c2dcbd"
+    },
+    {
+      "symbol": "NICBF",
+      "path": "03_stock_charts_ohlcv/NICBF_OHLCV.csv",
+      "rows": 832,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "ffee232e17761662269bb42695fe00d4771507c7a2f7cbb1539441f06b64f1da"
+    },
+    {
+      "symbol": "NICD83/84",
+      "path": "03_stock_charts_ohlcv/NICD83~2F84_OHLCV.csv",
+      "rows": 155,
+      "first_date": "2024-03-05",
+      "last_date": "2026-08-24",
+      "sha256": "85154303c6ca47dea6df31286cf4ff81cff4030a445f231629bd1a7f4d6b69fe"
+    },
+    {
+      "symbol": "NICD88",
+      "path": "03_stock_charts_ohlcv/NICD88_OHLCV.csv",
+      "rows": 354,
+      "first_date": "2024-05-21",
+      "last_date": "2026-11-05",
+      "sha256": "bd70f33fb430eb43c0b96035321cd95f2538ee040f430795bd2e36a89167f4b3"
+    },
+    {
+      "symbol": "NICFC",
+      "path": "03_stock_charts_ohlcv/NICFC_OHLCV.csv",
+      "rows": 920,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "5a3ebdf97654fe9aec8c21dd70cc703de05a7c0c09cec9bf97e056f622c9a194"
+    },
+    {
+      "symbol": "NICGF",
+      "path": "03_stock_charts_ohlcv/NICGF_OHLCV.csv",
+      "rows": 351,
+      "first_date": "2024-03-05",
+      "last_date": "2025-03-09",
+      "sha256": "9e33fcc363e8fd18ea35d27c18a84f0152c94e88e7d75950780cdfbeab223890"
+    },
+    {
+      "symbol": "NICGF2",
+      "path": "03_stock_charts_ohlcv/NICGF2_OHLCV.csv",
+      "rows": 926,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "0dc0a8659a700f63bf1d1fc8935c14e3042a5d9aba169d6aa27842e98944d051"
+    },
+    {
+      "symbol": "NICL",
+      "path": "03_stock_charts_ohlcv/NICL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b0b7fcac876d5993a2db3e1ebf5f5b8fd621ef30ba2728479f287b04e9bbbc9a"
+    },
+    {
+      "symbol": "NICLBSL",
+      "path": "03_stock_charts_ohlcv/NICLBSL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "4ff2951c35645b576199d7548e181ff104622f262eeb504ed9041f156f4e6a84"
+    },
+    {
+      "symbol": "NICLPO",
+      "path": "03_stock_charts_ohlcv/NICLPO_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2025-02-10",
+      "last_date": "2025-02-10",
+      "sha256": "4bd919bd88a1cdf69bbbfc4f798b7b6f8924cc7e23ae95536a80f1da6ace09e0"
+    },
+    {
+      "symbol": "NICSF",
+      "path": "03_stock_charts_ohlcv/NICSF_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "0c8b27e97c4acf3c5d909db877544c98f12c25fa28e61668b5d57736a268098e"
+    },
+    {
+      "symbol": "NIFRA",
+      "path": "03_stock_charts_ohlcv/NIFRA_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "a4980bb0e14eb68684b001764c670448498791fcc67364ab5d5679bc53871dd2"
+    },
+    {
+      "symbol": "NIFRAGED",
+      "path": "03_stock_charts_ohlcv/NIFRAGED_OHLCV.csv",
+      "rows": 303,
+      "first_date": "2025-07-15",
+      "last_date": "2026-11-20",
+      "sha256": "20ab3f03c1d05fb6b38f9d2819ade6dbbab7aa36c388b585cca1c2f0f37b7fca"
+    },
+    {
+      "symbol": "NIFRAP",
+      "path": "03_stock_charts_ohlcv/NIFRAP_OHLCV.csv",
+      "rows": 8,
+      "first_date": "2024-06-02",
+      "last_date": "2025-07-20",
+      "sha256": "812a4254892809efa75a9e7523479d1591d416622894efba4a4c2866e0de77e6"
+    },
+    {
+      "symbol": "NIFRAUR85/86",
+      "path": "03_stock_charts_ohlcv/NIFRAUR85~2F86_OHLCV.csv",
+      "rows": 232,
+      "first_date": "2024-04-14",
+      "last_date": "2026-11-18",
+      "sha256": "89956ef1049b10010c5bd93ffe7df08286e41ff58873850fb8897701b95da370"
+    },
+    {
+      "symbol": "NIL",
+      "path": "03_stock_charts_ohlcv/NIL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "ccee26d44d9d8740cdb553f60dd7dc3bb16dc51c950e28d22d8882f50c6f4ed5"
+    },
+    {
+      "symbol": "NILPO",
+      "path": "03_stock_charts_ohlcv/NILPO_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2024-06-23",
+      "last_date": "2025-10-08",
+      "sha256": "49c45c513efc902a6203311ad3ffc335c265304c5b5a63feeb3acd9a6edcf30e"
+    },
+    {
+      "symbol": "NIMB",
+      "path": "03_stock_charts_ohlcv/NIMB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ba0860bc57f6619835351262fdec6318b34f36a063a434b5b1a3a44d81c12ec5"
+    },
+    {
+      "symbol": "NIMBD90",
+      "path": "03_stock_charts_ohlcv/NIMBD90_OHLCV.csv",
+      "rows": 420,
+      "first_date": "2024-03-31",
+      "last_date": "2026-11-20",
+      "sha256": "a4ecee7c2e97b2c6f92eb1fda2ac4a75a2653b55866a64991c52a59908e72a72"
+    },
+    {
+      "symbol": "NIMBPO",
+      "path": "03_stock_charts_ohlcv/NIMBPO_OHLCV.csv",
+      "rows": 898,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "9087b2b2c05b5077155cb16309aafd8a15fa8735bbc1a7e8e0cd185c9e7458a3"
+    },
+    {
+      "symbol": "NLBBL",
+      "path": "03_stock_charts_ohlcv/NLBBL_OHLCV.csv",
+      "rows": 9,
+      "first_date": "2024-03-04",
+      "last_date": "2024-03-12",
+      "sha256": "b697b31a10a3f4b545812fd2d69cfa96082e4798fdb257ae43be5b8ac0f46756"
+    },
+    {
+      "symbol": "NLG",
+      "path": "03_stock_charts_ohlcv/NLG_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b553f757629b7c6bd881c62b8099951e65dfcbc4770a23702f6107ed28a5c2f8"
+    },
+    {
+      "symbol": "NLIC",
+      "path": "03_stock_charts_ohlcv/NLIC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "453aa140268f2c3b5fe93e303c3be918ef5691602600bbccddcc9800ba163edb"
+    },
+    {
+      "symbol": "NLICL",
+      "path": "03_stock_charts_ohlcv/NLICL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "21bdc900f7e45bac9bb64395f75030274058891b70dcc4ab1bdc5ec276a5bc43"
+    },
+    {
+      "symbol": "NLICLP",
+      "path": "03_stock_charts_ohlcv/NLICLP_OHLCV.csv",
+      "rows": 9,
+      "first_date": "2024-11-28",
+      "last_date": "2026-02-16",
+      "sha256": "e64a1a10b2b67ee22ebb5ac73a3c379ed058ea66da7a25714fb0d0583432a7ae"
+    },
+    {
+      "symbol": "NLICP",
+      "path": "03_stock_charts_ohlcv/NLICP_OHLCV.csv",
+      "rows": 12,
+      "first_date": "2024-10-07",
+      "last_date": "2026-02-11",
+      "sha256": "638c79d71b2542a6e7a0b8c457558ef8aed7401bff6ab13a5ad5642f61f6117a"
+    },
+    {
+      "symbol": "NLO",
+      "path": "03_stock_charts_ohlcv/NLO_OHLCV.csv",
+      "rows": 43,
+      "first_date": "2024-03-26",
+      "last_date": "2026-09-30",
+      "sha256": "d87885d187d4550f90101146afcec48f047461b3d64745e4f0dcf999342e1734"
+    },
+    {
+      "symbol": "NMB",
+      "path": "03_stock_charts_ohlcv/NMB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3a3f9caf19b56dfa1d71b825127884f9f5ab4f2d56669e16c5ecd56d474a97bf"
+    },
+    {
+      "symbol": "NMB50",
+      "path": "03_stock_charts_ohlcv/NMB50_OHLCV.csv",
+      "rows": 829,
+      "first_date": "2024-03-05",
+      "last_date": "2026-08-26",
+      "sha256": "c03b079cd79a3b6c6cafc08fabc7410dc89bbc97629c5246727ae993e49ff8b8"
+    },
+    {
+      "symbol": "NMBD2085",
+      "path": "03_stock_charts_ohlcv/NMBD2085_OHLCV.csv",
+      "rows": 119,
+      "first_date": "2024-04-03",
+      "last_date": "2026-11-04",
+      "sha256": "3f5aad140ea5f18b730a216d2a3dcdd4feb68e3a8263eb765f5fe510048b4a6f"
+    },
+    {
+      "symbol": "NMBD87/88",
+      "path": "03_stock_charts_ohlcv/NMBD87~2F88_OHLCV.csv",
+      "rows": 338,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "d14807532664b78e94d815b62ac3c29992d9e0d5c24563d76a49930c081111a4"
+    },
+    {
+      "symbol": "NMBD89/90",
+      "path": "03_stock_charts_ohlcv/NMBD89~2F90_OHLCV.csv",
+      "rows": 167,
+      "first_date": "2024-07-14",
+      "last_date": "2026-10-12",
+      "sha256": "8f33eec433057dd7b5ee8b0fbe71173961a1fde4af0068ff80a3073fdcbf4a1a"
+    },
+    {
+      "symbol": "NMBHF2",
+      "path": "03_stock_charts_ohlcv/NMBHF2_OHLCV.csv",
+      "rows": 518,
+      "first_date": "2025-04-21",
+      "last_date": "2026-11-20",
+      "sha256": "a1f1d02a63192372c7ba649b478c142808c41d357c175ad126149974cf59487d"
+    },
+    {
+      "symbol": "NMBMF",
+      "path": "03_stock_charts_ohlcv/NMBMF_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "6d4108927f204b3c09156cc63f3f44567db5798c49f010bcfd0cd892491a1a13"
+    },
+    {
+      "symbol": "NMBPO",
+      "path": "03_stock_charts_ohlcv/NMBPO_OHLCV.csv",
+      "rows": 39,
+      "first_date": "2024-03-28",
+      "last_date": "2026-08-26",
+      "sha256": "36a05bf988fcdbe34c6fed991c42368d7435dc7985aa7232f681758b5113dbfa"
+    },
+    {
+      "symbol": "NMBUR93/94",
+      "path": "03_stock_charts_ohlcv/NMBUR93~2F94_OHLCV.csv",
+      "rows": 33,
+      "first_date": "2026-08-24",
+      "last_date": "2026-11-17",
+      "sha256": "7e140e7dd82f38a0fccd4678e282ab41496aa4bee967ddc5c8fc6ea2f9be2ee5"
+    },
+    {
+      "symbol": "NMFBS",
+      "path": "03_stock_charts_ohlcv/NMFBS_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "5909ee50e9a1cdab53c18befad7754b56ffd6598c7fc3b37403e68cf3ecddc8d"
+    },
+    {
+      "symbol": "NMFBSP",
+      "path": "03_stock_charts_ohlcv/NMFBSP_OHLCV.csv",
+      "rows": 45,
+      "first_date": "2024-07-11",
+      "last_date": "2026-10-09",
+      "sha256": "c75d8ef77fbb81c9e807a8aad0d9e9a5ee9b374eb246f602721ba5d31816131d"
+    },
+    {
+      "symbol": "NMIC",
+      "path": "03_stock_charts_ohlcv/NMIC_OHLCV.csv",
+      "rows": 535,
+      "first_date": "2025-04-08",
+      "last_date": "2026-11-20",
+      "sha256": "e253b8d6de8b4a5bb403b89bd21e812bc5e31b1a6c376710f82e7df10607bf01"
+    },
+    {
+      "symbol": "NMLBBL",
+      "path": "03_stock_charts_ohlcv/NMLBBL_OHLCV.csv",
+      "rows": 860,
+      "first_date": "2024-05-19",
+      "last_date": "2026-11-20",
+      "sha256": "023c7b416ee4a14fdc954fa64f7d86f9315a8932afcc068f46e3dd1c3a1ef4fa"
+    },
+    {
+      "symbol": "NMLBBLP",
+      "path": "03_stock_charts_ohlcv/NMLBBLP_OHLCV.csv",
+      "rows": 11,
+      "first_date": "2024-12-23",
+      "last_date": "2026-11-18",
+      "sha256": "b6ce6af7876cd19b85a31408b750e190f6e0bb76e56832821f142a3a71a5c59a"
+    },
+    {
+      "symbol": "NRIC",
+      "path": "03_stock_charts_ohlcv/NRIC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "83fd51d791c84ba7584b7fd36c54761eba4cc2a88340aed765899a8fb1442c21"
+    },
+    {
+      "symbol": "NRICP",
+      "path": "03_stock_charts_ohlcv/NRICP_OHLCV.csv",
+      "rows": 7,
+      "first_date": "2024-03-07",
+      "last_date": "2024-05-13",
+      "sha256": "5d679ded2f011b69250441c0be532a30221b55bc0a78e225928a3667dd6ddff5"
+    },
+    {
+      "symbol": "NRM",
+      "path": "03_stock_charts_ohlcv/NRM_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bee2ebfbb99a814c407c438fc9d414be7504053d747edbec9a78a637216f0635"
+    },
+    {
+      "symbol": "NRN",
+      "path": "03_stock_charts_ohlcv/NRN_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "25e75004a483b4435463894462725477b2ce65b658f964ec65d2fe59e1c04ce8"
+    },
+    {
+      "symbol": "NSIF2",
+      "path": "03_stock_charts_ohlcv/NSIF2_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2b9baeebcffc1df72186140d3fe553c9cebd71510d6a3b4f10a5036880a02e95"
+    },
+    {
+      "symbol": "NSY",
+      "path": "03_stock_charts_ohlcv/NSY_OHLCV.csv",
+      "rows": 192,
+      "first_date": "2026-03-17",
+      "last_date": "2026-11-20",
+      "sha256": "ac6c88ae192a48b1fe6248d2604aeb2dfa5c2ee439d0615f43ce012dcbd5f880"
+    },
+    {
+      "symbol": "NTC",
+      "path": "03_stock_charts_ohlcv/NTC_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0ab77b5ee9fc954d285cce45588d6cd9eab383afaa46b4a6473bcbd32ab4c330"
+    },
+    {
+      "symbol": "NUBL",
+      "path": "03_stock_charts_ohlcv/NUBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "60ef27064b76112c8c0ac31647fce64f7aa7f5c7e63dc85f2329792c77c5e05a"
+    },
+    {
+      "symbol": "NWCL",
+      "path": "03_stock_charts_ohlcv/NWCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c080c46911485b9e95a0c6cdf4abb7641fce9e3895b26a4733ceddf2fe7a9120"
+    },
+    {
+      "symbol": "NYADI",
+      "path": "03_stock_charts_ohlcv/NYADI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "19741b302b204c90a92f113a5df49fbbf84f31311dcef5df7f8fb036917e9f1b"
+    },
+    {
+      "symbol": "OHL",
+      "path": "03_stock_charts_ohlcv/OHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "96b346c4f023f861f7f6419dfe7ca51b0f3092adb8338fe5ad03c65d08fce706"
+    },
+    {
+      "symbol": "OMPL",
+      "path": "03_stock_charts_ohlcv/OMPL_OHLCV.csv",
+      "rows": 509,
+      "first_date": "2025-05-04",
+      "last_date": "2026-11-20",
+      "sha256": "634cf7ce2ca30206ad813ad0d11b9ef662d15f005db6e998e1955275095566ad"
+    },
+    {
+      "symbol": "PBD84",
+      "path": "03_stock_charts_ohlcv/PBD84_OHLCV.csv",
+      "rows": 298,
+      "first_date": "2024-06-25",
+      "last_date": "2026-11-06",
+      "sha256": "3a00a30281829e5f55cc2e91087ff7f95128a02b06315bce707bae3f8fd42b07"
+    },
+    {
+      "symbol": "PBD85",
+      "path": "03_stock_charts_ohlcv/PBD85_OHLCV.csv",
+      "rows": 381,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-17",
+      "sha256": "46dc8720c4584b55278b69aec0335934f8219121f808a41949bbc2cf8a838a1a"
+    },
+    {
+      "symbol": "PBD88",
+      "path": "03_stock_charts_ohlcv/PBD88_OHLCV.csv",
+      "rows": 736,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-05",
+      "sha256": "a036b18138ade28f3cb5dd0880d36f4c07d1f4fdc1d8a86200fef92b572c44d9"
+    },
+    {
+      "symbol": "PBD93",
+      "path": "03_stock_charts_ohlcv/PBD93_OHLCV.csv",
+      "rows": 40,
+      "first_date": "2026-09-10",
+      "last_date": "2026-11-20",
+      "sha256": "45ad7aa1aa5f9b7cb4ac41c939c48ced2eab58d6faad352d81785f819c0077a7"
+    },
+    {
+      "symbol": "PBLD84",
+      "path": "03_stock_charts_ohlcv/PBLD84_OHLCV.csv",
+      "rows": 379,
+      "first_date": "2024-03-07",
+      "last_date": "2026-11-06",
+      "sha256": "e4b432074e366c436663472c40a1bf0e345cc3476823dce3198f4f09a148b1a7"
+    },
+    {
+      "symbol": "PBLD86",
+      "path": "03_stock_charts_ohlcv/PBLD86_OHLCV.csv",
+      "rows": 129,
+      "first_date": "2024-03-06",
+      "last_date": "2026-10-08",
+      "sha256": "9f2690ed497bd8288750778661cc5d45b13cdfaa133cdf6436d40aa9f025faa0"
+    },
+    {
+      "symbol": "PBLD87",
+      "path": "03_stock_charts_ohlcv/PBLD87_OHLCV.csv",
+      "rows": 316,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-19",
+      "sha256": "fe7be370fdbe98749c7f38fc3764cf69559f30ecaad165e270d3d5f5c4a4d61c"
+    },
+    {
+      "symbol": "PCBL",
+      "path": "03_stock_charts_ohlcv/PCBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1b38e6185bc58412e6ff9b742600d21058e5833e6f328d83b60bd8eb6f76ee28"
+    },
+    {
+      "symbol": "PCBLP",
+      "path": "03_stock_charts_ohlcv/PCBLP_OHLCV.csv",
+      "rows": 113,
+      "first_date": "2024-03-07",
+      "last_date": "2026-11-17",
+      "sha256": "edd92dc957a8b07d768c0dec80d62e32a564446630e4681315e6a8bc6f26aac6"
+    },
+    {
+      "symbol": "PCIL",
+      "path": "03_stock_charts_ohlcv/PCIL_OHLCV.csv",
+      "rows": 170,
+      "first_date": "2026-04-10",
+      "last_date": "2026-11-20",
+      "sha256": "671d6651440fe5c65b44b33af902f3a4a712b7139f4d028b641d04d52b578473"
+    },
+    {
+      "symbol": "PFL",
+      "path": "03_stock_charts_ohlcv/PFL_OHLCV.csv",
+      "rows": 889,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f134a0b221eecabbeeae00b8935492a59cf27c6e3f70f10946a90fd3e1058820"
+    },
+    {
+      "symbol": "PFLPO",
+      "path": "03_stock_charts_ohlcv/PFLPO_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2025-06-25",
+      "last_date": "2025-06-25",
+      "sha256": "c36c031571ad0554d2630871298b05a4b086a50d0d60499d3dbb9ebf5dc1ad9c"
+    },
+    {
+      "symbol": "PHCL",
+      "path": "03_stock_charts_ohlcv/PHCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "051d5e20dfcbe41123bce5883ade1058c75062b64ed375f02a5bf8a30f673ae9"
+    },
+    {
+      "symbol": "PMHPL",
+      "path": "03_stock_charts_ohlcv/PMHPL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "74477130ffd35b78e23611b9ef6eec1dd927184bc84e2edebc7d0bc6a6593985"
+    },
+    {
+      "symbol": "PMLI",
+      "path": "03_stock_charts_ohlcv/PMLI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "16fdcc41826041d2e6e96d700a6840a4edac074beb48c077fe9de0816eac3f04"
+    },
+    {
+      "symbol": "PMLIP",
+      "path": "03_stock_charts_ohlcv/PMLIP_OHLCV.csv",
+      "rows": 80,
+      "first_date": "2024-04-09",
+      "last_date": "2026-11-05",
+      "sha256": "2fa2d50a7a92824855e5fd34cf1bc44bed24498bf563587cedcd51b29ea7b11f"
+    },
+    {
+      "symbol": "PPCL",
+      "path": "03_stock_charts_ohlcv/PPCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "94df09d6c00584cd8912660965f6d9b9601d19490da2924e481432d238563275"
+    },
+    {
+      "symbol": "PPL",
+      "path": "03_stock_charts_ohlcv/PPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d91383c97368fbc7d2325c57ff3bd43220a432cd96cea7f1662bce88aba0f980"
+    },
+    {
+      "symbol": "PRIN",
+      "path": "03_stock_charts_ohlcv/PRIN_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "fea6f54904e4cd8138a51cd4ecb99e66f17f3257af5210f82fc43d60b23b4c03"
+    },
+    {
+      "symbol": "PROFL",
+      "path": "03_stock_charts_ohlcv/PROFL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8e3b5e7fe862c9318fb885586ced79ebcf58742ea71c4b14e85fc5fff447fff9"
+    },
+    {
+      "symbol": "PROFLP",
+      "path": "03_stock_charts_ohlcv/PROFLP_OHLCV.csv",
+      "rows": 45,
+      "first_date": "2024-06-02",
+      "last_date": "2026-10-15",
+      "sha256": "e6cbf71653dc08979c35c1fd33c02e80190de2a1442efdb0d857137c18a4acf8"
+    },
+    {
+      "symbol": "PRSF",
+      "path": "03_stock_charts_ohlcv/PRSF_OHLCV.csv",
+      "rows": 928,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "748dc1b6dee969c09ea37cab17cf8cf16372079839170fea8daa61a5525b0408"
+    },
+    {
+      "symbol": "PRVU",
+      "path": "03_stock_charts_ohlcv/PRVU_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "0f6c75ee6349bf3300ce0bc91f94a83b5fcaf1b37298539b9c5d115410735b03"
+    },
+    {
+      "symbol": "PRVUPO",
+      "path": "03_stock_charts_ohlcv/PRVUPO_OHLCV.csv",
+      "rows": 98,
+      "first_date": "2024-03-21",
+      "last_date": "2026-10-09",
+      "sha256": "a5774c60abf76a8d00d222ad21f1fc55b8949652a57f5f6c203b48164ca4ab16"
+    },
+    {
+      "symbol": "PSF",
+      "path": "03_stock_charts_ohlcv/PSF_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "384ae95938e3bd7dd86d5a3138a94bac7d794190c6c0c9aab3d7dd939c2ad4ca"
+    },
+    {
+      "symbol": "PURE",
+      "path": "03_stock_charts_ohlcv/PURE_OHLCV.csv",
+      "rows": 485,
+      "first_date": "2025-05-27",
+      "last_date": "2026-11-20",
+      "sha256": "586ed3ff26cc3843212a2e900f835ce682888c7b34455e591235fcf27c38c5eb"
+    },
+    {
+      "symbol": "RADHI",
+      "path": "03_stock_charts_ohlcv/RADHI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "6776578aeec2e1d3e0280b5827ae623d249cbcdb0141d6d4ef1aae85c14c43d4"
+    },
+    {
+      "symbol": "RAWA",
+      "path": "03_stock_charts_ohlcv/RAWA_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1af98c05119f589359ec1516b8125b10e67639f827c51e44da47095b2aedd3e8"
+    },
+    {
+      "symbol": "RBBD2088",
+      "path": "03_stock_charts_ohlcv/RBBD2088_OHLCV.csv",
+      "rows": 300,
+      "first_date": "2025-08-04",
+      "last_date": "2026-11-20",
+      "sha256": "5f0c18a0100b171e8897bf6dd38fa3f989df65292f1e19dc72f7275cbda02051"
+    },
+    {
+      "symbol": "RBBD83",
+      "path": "03_stock_charts_ohlcv/RBBD83_OHLCV.csv",
+      "rows": 292,
+      "first_date": "2024-04-02",
+      "last_date": "2026-11-18",
+      "sha256": "ec5079a35ddd61f6d8e8447c0087674a459cc031c56f99ab38c5c90f1ed7cd43"
+    },
+    {
+      "symbol": "RBBF40",
+      "path": "03_stock_charts_ohlcv/RBBF40_OHLCV.csv",
+      "rows": 249,
+      "first_date": "2026-01-18",
+      "last_date": "2026-11-20",
+      "sha256": "f0ee90f3ceeda08dbef08bc8571a988187f0a78b96d08b220aaf3968aa04d01e"
+    },
+    {
+      "symbol": "RBCL",
+      "path": "03_stock_charts_ohlcv/RBCL_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "496df3b62b5187f3cda5316b785428913b67f8dbc0d80b1a6db2a1e02f599cc6"
+    },
+    {
+      "symbol": "RBCLPO",
+      "path": "03_stock_charts_ohlcv/RBCLPO_OHLCV.csv",
+      "rows": 837,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-18",
+      "sha256": "6096293331e1bf4af112f309f8ad8959d264bd9c072bc25e1c10824e95f1db48"
+    },
+    {
+      "symbol": "RFPL",
+      "path": "03_stock_charts_ohlcv/RFPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "80363a059a6a246d8f0ec304d7e98c7dd07d4ea8236f1a16af205e33561c8ac6"
+    },
+    {
+      "symbol": "RHGCL",
+      "path": "03_stock_charts_ohlcv/RHGCL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "04da0b69008e817a91c427499433383dd29eec21bcd1d93ac5a57d63cb5c2e73"
+    },
+    {
+      "symbol": "RHPL",
+      "path": "03_stock_charts_ohlcv/RHPL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1aa76f18a9264f3843d1757eb4d085753ddb48d0a0bb1837450d3fde97eafd2a"
+    },
+    {
+      "symbol": "RIDI",
+      "path": "03_stock_charts_ohlcv/RIDI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b9437e1b14d08803365a9e419021e713f29cfc2885ed311801e4f0b374af3875"
+    },
+    {
+      "symbol": "RLEL",
+      "path": "03_stock_charts_ohlcv/RLEL_OHLCV.csv",
+      "rows": 182,
+      "first_date": "2026-03-29",
+      "last_date": "2026-11-20",
+      "sha256": "e5cc2b27063fb6ba23af2629e59c4252afc5e480353bbd3d4d17c2d69271eb29"
+    },
+    {
+      "symbol": "RLFL",
+      "path": "03_stock_charts_ohlcv/RLFL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "34ceb666f94f1c5139173205e1462c2db896dd2563d41c27632b7e0fabbc24e8"
+    },
+    {
+      "symbol": "RLFLPO",
+      "path": "03_stock_charts_ohlcv/RLFLPO_OHLCV.csv",
+      "rows": 8,
+      "first_date": "2024-03-18",
+      "last_date": "2026-04-08",
+      "sha256": "f0244220901ad13fd06e78e572dfc5fe9956c05d0ce9515a2bb90290dc071c20"
+    },
+    {
+      "symbol": "RMF1",
+      "path": "03_stock_charts_ohlcv/RMF1_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "fb58241ba7d33c0e40f849cb7b9e233604a8250c29d581fb75b6d74e9694ae02"
+    },
+    {
+      "symbol": "RMF2",
+      "path": "03_stock_charts_ohlcv/RMF2_OHLCV.csv",
+      "rows": 855,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-19",
+      "sha256": "9a3f52d1a3c319133bf42f20615676ace154102804e650e526d26428ae8060e2"
+    },
+    {
+      "symbol": "RNLI",
+      "path": "03_stock_charts_ohlcv/RNLI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3f5983db69256f83a5da3c160fc3aab6da10b8971aaa510f53742940087e814d"
+    },
+    {
+      "symbol": "RSDC",
+      "path": "03_stock_charts_ohlcv/RSDC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b1eefa1a4f4cfb2d6414ad37cf2feea9e0aff81a1aac70f76c2be05fa969b555"
+    },
+    {
+      "symbol": "RSDCP",
+      "path": "03_stock_charts_ohlcv/RSDCP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2026-06-02",
+      "last_date": "2026-06-02",
+      "sha256": "104cfc86e76710c23c2aa3491f00e1b34382abafa7391801d4584066c13235a9"
+    },
+    {
+      "symbol": "RSML",
+      "path": "03_stock_charts_ohlcv/RSML_OHLCV.csv",
+      "rows": 222,
+      "first_date": "2026-02-16",
+      "last_date": "2026-11-20",
+      "sha256": "0b3a6401b6fa8031783ca809ae3f23b178ed354785002eee2ed0e5e0c37331d0"
+    },
+    {
+      "symbol": "RSY",
+      "path": "03_stock_charts_ohlcv/RSY_OHLCV.csv",
+      "rows": 453,
+      "first_date": "2025-06-26",
+      "last_date": "2026-11-20",
+      "sha256": "4d490625b94ea9b52188a83ad6a4959cd9dee64dc55f836e2fc81df419a7032a"
+    },
+    {
+      "symbol": "RSY2",
+      "path": "03_stock_charts_ohlcv/RSY2_OHLCV.csv",
+      "rows": 60,
+      "first_date": "2026-08-10",
+      "last_date": "2026-11-20",
+      "sha256": "c08aff40113fe65edd2463325ad4b958df4282fb4b1218204e194d3dd52f97bb"
+    },
+    {
+      "symbol": "RURU",
+      "path": "03_stock_charts_ohlcv/RURU_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d84f42b7e0eb3df5ae173722643389aa23381c3ac9f5291b6b2b6dc7ed657507"
+    },
+    {
+      "symbol": "SABBL",
+      "path": "03_stock_charts_ohlcv/SABBL_OHLCV.csv",
+      "rows": 221,
+      "first_date": "2026-02-16",
+      "last_date": "2026-11-20",
+      "sha256": "6decae46fd2c73e7758b4b9b77914b77ae9e42e7a4cdf74f6c675c8285a8e90d"
+    },
+    {
+      "symbol": "SABSL",
+      "path": "03_stock_charts_ohlcv/SABSL_OHLCV.csv",
+      "rows": 131,
+      "first_date": "2024-03-05",
+      "last_date": "2024-07-13",
+      "sha256": "ff961e1a0640bb753d06bb9d18a52a12b4102588c4afc0560681ed4650f6f49c"
+    },
+    {
+      "symbol": "SADBL",
+      "path": "03_stock_charts_ohlcv/SADBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3cb0af76d19ccd49d27628a7aa689499d62c3636897015d126967df4a7e15c65"
+    },
+    {
+      "symbol": "SADBLP",
+      "path": "03_stock_charts_ohlcv/SADBLP_OHLCV.csv",
+      "rows": 41,
+      "first_date": "2024-04-10",
+      "last_date": "2026-07-31",
+      "sha256": "3429b2a52fa77ab6655a1b6a1ba8c38c4b29ba4063b60cc9bfdd3a8dd7863c99"
+    },
+    {
+      "symbol": "SAEF",
+      "path": "03_stock_charts_ohlcv/SAEF_OHLCV.csv",
+      "rows": 293,
+      "first_date": "2024-03-05",
+      "last_date": "2024-12-22",
+      "sha256": "9a1ae91f8915d459f66f6aefc648d425950b175cf4388f2244e61db843c8b2f0"
+    },
+    {
+      "symbol": "SAEF2",
+      "path": "03_stock_charts_ohlcv/SAEF2_OHLCV.csv",
+      "rows": 62,
+      "first_date": "2026-08-06",
+      "last_date": "2026-11-20",
+      "sha256": "35cc3535d6e3f4d7ab690c0473d37ff513653f66bcbd76dfd7938087971ffef6"
+    },
+    {
+      "symbol": "SAGAR",
+      "path": "03_stock_charts_ohlcv/SAGAR_OHLCV.csv",
+      "rows": 320,
+      "first_date": "2025-11-09",
+      "last_date": "2026-11-20",
+      "sha256": "fc533f76de835cda05a059f680f8974b5cdf4c220f694b353d5948f97ae87a16"
+    },
+    {
+      "symbol": "SAGF",
+      "path": "03_stock_charts_ohlcv/SAGF_OHLCV.csv",
+      "rows": 912,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "3d4dfed7c212359ae267995a9bd55b2945d927364ad237dc43805102bfd673df"
+    },
+    {
+      "symbol": "SAHAS",
+      "path": "03_stock_charts_ohlcv/SAHAS_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "49f435f7b67e7ab45de517056b15232ffdbd1f566049dc49c3c2d98106aa742c"
+    },
+    {
+      "symbol": "SAIL",
+      "path": "03_stock_charts_ohlcv/SAIL_OHLCV.csv",
+      "rows": 306,
+      "first_date": "2025-11-24",
+      "last_date": "2026-11-20",
+      "sha256": "d5dc19f9dbda1f91dd428638b9311502b46bd8ecc77d0a14435b91b0445b2fb4"
+    },
+    {
+      "symbol": "SALICO",
+      "path": "03_stock_charts_ohlcv/SALICO_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "667519085e9c4d88ead6fe25595954f67142b4dbb8046bd4ae2f4ba8e367c29d"
+    },
+    {
+      "symbol": "SALICOPO",
+      "path": "03_stock_charts_ohlcv/SALICOPO_OHLCV.csv",
+      "rows": 8,
+      "first_date": "2024-03-05",
+      "last_date": "2026-08-27",
+      "sha256": "48ad9e9398c995ec0ec60140fda6bcce69d1003574f9422d23541f2cb5759d7f"
+    },
+    {
+      "symbol": "SAMAJ",
+      "path": "03_stock_charts_ohlcv/SAMAJ_OHLCV.csv",
+      "rows": 591,
+      "first_date": "2024-03-04",
+      "last_date": "2025-10-18",
+      "sha256": "0fd3c1068bee04e5b48be6bfe275c43bda22ad3cad4fcd0a4d1022466295f70d"
+    },
+    {
+      "symbol": "SAND2085",
+      "path": "03_stock_charts_ohlcv/SAND2085_OHLCV.csv",
+      "rows": 249,
+      "first_date": "2024-03-17",
+      "last_date": "2026-10-27",
+      "sha256": "b7e2e849b3051e8ba580184f55d01c7a17668f658a64d689ba2bd0a4a2ab7d7f"
+    },
+    {
+      "symbol": "SANIMA",
+      "path": "03_stock_charts_ohlcv/SANIMA_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "45be1fd4a6584b565a25f658f952696a80b63067347ffeface97d9f60f7b1063"
+    },
+    {
+      "symbol": "SANVI",
+      "path": "03_stock_charts_ohlcv/SANVI_OHLCV.csv",
+      "rows": 432,
+      "first_date": "2025-07-20",
+      "last_date": "2026-11-20",
+      "sha256": "82ec52ae2483d6ac2647e9a7746cc10b0247f22c70319027ec01f076ae2a3eb6"
+    },
+    {
+      "symbol": "SAPDBL",
+      "path": "03_stock_charts_ohlcv/SAPDBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b19a51f5ccd55dd64d20d006be6bdc3044ad9393f19a0cd434181a852d16ed61"
+    },
+    {
+      "symbol": "SAPDBLP",
+      "path": "03_stock_charts_ohlcv/SAPDBLP_OHLCV.csv",
+      "rows": 5,
+      "first_date": "2024-06-23",
+      "last_date": "2025-07-28",
+      "sha256": "272b939c24769b1c8430ab1d2fbb9334e6b5752a91b524040608bc80e62e5f29"
+    },
+    {
+      "symbol": "SAPIL",
+      "path": "03_stock_charts_ohlcv/SAPIL_OHLCV.csv",
+      "rows": 57,
+      "first_date": "2026-08-13",
+      "last_date": "2026-11-20",
+      "sha256": "c5638e97a2a483c92bc5503ff886b777f4e5e3b37ced9f80d51990be9b496901"
+    },
+    {
+      "symbol": "SARBTM",
+      "path": "03_stock_charts_ohlcv/SARBTM_OHLCV.csv",
+      "rows": 920,
+      "first_date": "2024-03-19",
+      "last_date": "2026-11-20",
+      "sha256": "ebbb1a63f8652d4f1813714e17df9a76437c1f14934081083ad549cf54512913"
+    },
+    {
+      "symbol": "SBCF",
+      "path": "03_stock_charts_ohlcv/SBCF_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "749343c8c1d6b416d0a4a552342f5a80d2d0ca47169b339670dfd41b338fba7f"
+    },
+    {
+      "symbol": "SBD87",
+      "path": "03_stock_charts_ohlcv/SBD87_OHLCV.csv",
+      "rows": 408,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "6c519855deed2b6e5aff607d9da58ae8c333a93f7a79762b8738948951bd0ab1"
+    },
+    {
+      "symbol": "SBD89",
+      "path": "03_stock_charts_ohlcv/SBD89_OHLCV.csv",
+      "rows": 127,
+      "first_date": "2024-06-25",
+      "last_date": "2026-10-15",
+      "sha256": "4bb5e2f02bbc8c8039511a2f7bdc41e425ebaa39b52cb1ca8eb01e79e2dd1f00"
+    },
+    {
+      "symbol": "SBI",
+      "path": "03_stock_charts_ohlcv/SBI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e82d6c12c1f1bb7cfb1a8e0ecfad29aef672149ce6ff18fc21665e56977ba1f5"
+    },
+    {
+      "symbol": "SBIBD86",
+      "path": "03_stock_charts_ohlcv/SBIBD86_OHLCV.csv",
+      "rows": 204,
+      "first_date": "2024-04-01",
+      "last_date": "2026-10-08",
+      "sha256": "502b343963c3dc29bec5f14eadbdab3ef8d8eee02fa27dbeb83ed4ecf85d925b"
+    },
+    {
+      "symbol": "SBID2090",
+      "path": "03_stock_charts_ohlcv/SBID2090_OHLCV.csv",
+      "rows": 153,
+      "first_date": "2025-11-10",
+      "last_date": "2026-11-19",
+      "sha256": "5c8bf6b3af8f509c26eed3cfe8a280bb54750a2cef2a5ec1b95508af7676ce3d"
+    },
+    {
+      "symbol": "SBID83",
+      "path": "03_stock_charts_ohlcv/SBID83_OHLCV.csv",
+      "rows": 531,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-19",
+      "sha256": "1733504ef3035bc88dd5a028b94ef78f471a6305ccbce7ac387f7db946f6f949"
+    },
+    {
+      "symbol": "SBID89",
+      "path": "03_stock_charts_ohlcv/SBID89_OHLCV.csv",
+      "rows": 483,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-17",
+      "sha256": "7764037daacedf7f7c895b6d460186f3791b892761697ee757478ea0f6052771"
+    },
+    {
+      "symbol": "SBL",
+      "path": "03_stock_charts_ohlcv/SBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "1449c1d2acc897d1635bc4c41a053738f7bb578b22cec001236c5af263ad6b1e"
+    },
+    {
+      "symbol": "SBLD2082",
+      "path": "03_stock_charts_ohlcv/SBLD2082_OHLCV.csv",
+      "rows": 191,
+      "first_date": "2024-03-12",
+      "last_date": "2026-01-06",
+      "sha256": "8636d61478e1d9f02cac0eaf28a6044fe4f72ddacb2d8499b7565c4744afba40"
+    },
+    {
+      "symbol": "SBLD2091",
+      "path": "03_stock_charts_ohlcv/SBLD2091_OHLCV.csv",
+      "rows": 248,
+      "first_date": "2025-09-23",
+      "last_date": "2026-11-17",
+      "sha256": "d2c263ce96c2f2512b2aa6f5bc1079f4e9dbbef13698159d34cf2c592d240e64"
+    },
+    {
+      "symbol": "SBLD83",
+      "path": "03_stock_charts_ohlcv/SBLD83_OHLCV.csv",
+      "rows": 116,
+      "first_date": "2024-03-14",
+      "last_date": "2026-09-01",
+      "sha256": "c317e5466ebdea37d9b7b3668fd0bfe8532e75f8ec060ada40cd44a520f79bef"
+    },
+    {
+      "symbol": "SBLD84",
+      "path": "03_stock_charts_ohlcv/SBLD84_OHLCV.csv",
+      "rows": 233,
+      "first_date": "2024-03-19",
+      "last_date": "2026-11-03",
+      "sha256": "f89b6ea0c5b4b3277bb0ac09f45ec95ab4d0d927b280709b73c0d303d12e6567"
+    },
+    {
+      "symbol": "SBLD89",
+      "path": "03_stock_charts_ohlcv/SBLD89_OHLCV.csv",
+      "rows": 278,
+      "first_date": "2024-04-03",
+      "last_date": "2026-11-19",
+      "sha256": "a8c6b3292cf80077725cb531c367524014736a9f6c2b23afd57a10db567faf3f"
+    },
+    {
+      "symbol": "SBLPO",
+      "path": "03_stock_charts_ohlcv/SBLPO_OHLCV.csv",
+      "rows": 21,
+      "first_date": "2024-04-21",
+      "last_date": "2026-09-30",
+      "sha256": "f92acdba403a80d33654be0eb410c0231c73819e9260f4866aa0827998b0ce5d"
+    },
+    {
+      "symbol": "SCB",
+      "path": "03_stock_charts_ohlcv/SCB_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "c8da629635eb12a14503631f6737e0fe4d1df5d47f6733c222140db448b34bfa"
+    },
+    {
+      "symbol": "SCBD",
+      "path": "03_stock_charts_ohlcv/SCBD_OHLCV.csv",
+      "rows": 288,
+      "first_date": "2024-05-05",
+      "last_date": "2026-11-19",
+      "sha256": "1a467bed8fdd573f8d0d7f341fec967e9f167933c1185531209fbd3f6ca85a6c"
+    },
+    {
+      "symbol": "SDBD87",
+      "path": "03_stock_charts_ohlcv/SDBD87_OHLCV.csv",
+      "rows": 436,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-17",
+      "sha256": "c22da6a127a8e1a2648cf72c0f6e4801f9d5e7c88d7b4a50c96a19ef1b4cc1ee"
+    },
+    {
+      "symbol": "SDLBSL",
+      "path": "03_stock_charts_ohlcv/SDLBSL_OHLCV.csv",
+      "rows": 131,
+      "first_date": "2024-03-05",
+      "last_date": "2024-07-13",
+      "sha256": "cfb4bdd9545fb307fe47e50c1077f0f99aaffca8f7dde3e0640542cb7e270718"
+    },
+    {
+      "symbol": "SEF",
+      "path": "03_stock_charts_ohlcv/SEF_OHLCV.csv",
+      "rows": 916,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "70b21f3211e1c99d63177cdb3224bc836ad486b9fdb9ef23dd1d79bd90bdb2ba"
+    },
+    {
+      "symbol": "SEF2",
+      "path": "03_stock_charts_ohlcv/SEF2_OHLCV.csv",
+      "rows": 63,
+      "first_date": "2026-08-05",
+      "last_date": "2026-11-20",
+      "sha256": "a942b6b2dd840eb630263beab297b20e746de056bb400a2411fdf17f59a4b0e0"
+    },
+    {
+      "symbol": "SFCL",
+      "path": "03_stock_charts_ohlcv/SFCL_OHLCV.csv",
+      "rows": 852,
+      "first_date": "2024-03-04",
+      "last_date": "2026-07-09",
+      "sha256": "6bc9b038feb9e6dbf80ca499912d04a6b21adcd759b6d0452ee3fbf9c9e061b7"
+    },
+    {
+      "symbol": "SFCLP",
+      "path": "03_stock_charts_ohlcv/SFCLP_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2026-01-18",
+      "last_date": "2026-01-19",
+      "sha256": "cbc18c39ebfb44fed5435edb88c6a741eaf4e946f0726d20025d70cbd1fe9ed8"
+    },
+    {
+      "symbol": "SFEF",
+      "path": "03_stock_charts_ohlcv/SFEF_OHLCV.csv",
+      "rows": 917,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "87ce91c1964441888ef6c1693fa45ebff01c5e2bb38cd97c59768df15d724228"
+    },
+    {
+      "symbol": "SFMF",
+      "path": "03_stock_charts_ohlcv/SFMF_OHLCV.csv",
+      "rows": 817,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "3e51a7bf2b9bcd3df727e890a2d047a45348d03b8dae10f095bb3dc3f1970fb8"
+    },
+    {
+      "symbol": "SGHC",
+      "path": "03_stock_charts_ohlcv/SGHC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "06a78853a3cd28e8228f005b4733d48504c750579b7520db9e795b9922d8aee8"
+    },
+    {
+      "symbol": "SGHL",
+      "path": "03_stock_charts_ohlcv/SGHL_OHLCV.csv",
+      "rows": 87,
+      "first_date": "2026-07-02",
+      "last_date": "2026-11-20",
+      "sha256": "df9c936f8ebbdf611bbb6c423fd1dd761b83a789967e05ce12c456e0e516e920"
+    },
+    {
+      "symbol": "SGIC",
+      "path": "03_stock_charts_ohlcv/SGIC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "86d37cc751537e39a90cfc1d49e92e2bbeb98e1bf9e04fd9f5cd9a5e6878ed7f"
+    },
+    {
+      "symbol": "SGICP",
+      "path": "03_stock_charts_ohlcv/SGICP_OHLCV.csv",
+      "rows": 26,
+      "first_date": "2025-01-27",
+      "last_date": "2026-05-19",
+      "sha256": "8daacc9afb8eac4696e25a374c2ce91a3c97398c2f68f232983f62a0e1b5aa65"
+    },
+    {
+      "symbol": "SHEL",
+      "path": "03_stock_charts_ohlcv/SHEL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "85faef55fb66511ded4dd2df37773373128b90e2c6c0e424fbcbc190ed44860b"
+    },
+    {
+      "symbol": "SHINE",
+      "path": "03_stock_charts_ohlcv/SHINE_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ebeb90bbce87e29571f624a76c1ae07dfa3b972441739f2571601ca6d0b9866f"
+    },
+    {
+      "symbol": "SHINED",
+      "path": "03_stock_charts_ohlcv/SHINED_OHLCV.csv",
+      "rows": 205,
+      "first_date": "2025-11-11",
+      "last_date": "2026-11-20",
+      "sha256": "e2754e79ed413cff4a98d70f458d7391a6732ca22452241999f7ca3ddc726f3b"
+    },
+    {
+      "symbol": "SHINEP",
+      "path": "03_stock_charts_ohlcv/SHINEP_OHLCV.csv",
+      "rows": 20,
+      "first_date": "2024-06-24",
+      "last_date": "2026-06-28",
+      "sha256": "94c6ae3b2a5122dd05ea898a2ebd9a29b3c435cea466ade84ac444047731fbed"
+    },
+    {
+      "symbol": "SHIVM",
+      "path": "03_stock_charts_ohlcv/SHIVM_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "86733b2db6348a7b8ec69d944c59f790895523159a94c277ab3cb78f376891f3"
+    },
+    {
+      "symbol": "SHL",
+      "path": "03_stock_charts_ohlcv/SHL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "eb6ffe1d7f038d7ebe7f3a9f1999d53b57c4c223d7a2ac8cb8d912013c358d13"
+    },
+    {
+      "symbol": "SHLB",
+      "path": "03_stock_charts_ohlcv/SHLB_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d460b80689fc93f8a5fb0617772c1627ddc83b966d9cf05b17b1af26b6565655"
+    },
+    {
+      "symbol": "SHPC",
+      "path": "03_stock_charts_ohlcv/SHPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7f7832289ed6b371509f56feac541d0d01b22c2f8d6e7eb69e2a953e5534ca9a"
+    },
+    {
+      "symbol": "SICL",
+      "path": "03_stock_charts_ohlcv/SICL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "135118a46e6c07a363dc225237571396253f6a4958e0b1d058861b8c1a7da49a"
+    },
+    {
+      "symbol": "SICLPO",
+      "path": "03_stock_charts_ohlcv/SICLPO_OHLCV.csv",
+      "rows": 5,
+      "first_date": "2025-02-02",
+      "last_date": "2025-02-08",
+      "sha256": "f6189be6937e17f202a4c3dbce087f61de73ba12eb15f4672bad1584c692a113"
+    },
+    {
+      "symbol": "SIFC",
+      "path": "03_stock_charts_ohlcv/SIFC_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e77e5ef0b9cf18456ecf011771ae0d45405136677df7d602becda4f0f3edf2e6"
+    },
+    {
+      "symbol": "SIFCPO",
+      "path": "03_stock_charts_ohlcv/SIFCPO_OHLCV.csv",
+      "rows": 8,
+      "first_date": "2024-05-09",
+      "last_date": "2026-01-05",
+      "sha256": "b226b6a5a5ad8b3a01dff382323e7998b584eda4cf56165845e4d971b1938fc2"
+    },
+    {
+      "symbol": "SIGS2",
+      "path": "03_stock_charts_ohlcv/SIGS2_OHLCV.csv",
+      "rows": 837,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "bcee857e2de68a844a38a46756f1f519ead748164dce5705b36c6d6e3945f4bc"
+    },
+    {
+      "symbol": "SIGS3",
+      "path": "03_stock_charts_ohlcv/SIGS3_OHLCV.csv",
+      "rows": 913,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "fb428b1046eecc212f381cb0546aa73caa77a4b7236b0044dddc1fd6a5510f2a"
+    },
+    {
+      "symbol": "SIKLES",
+      "path": "03_stock_charts_ohlcv/SIKLES_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "73b8b9a452c95743f6bddbeed3dd9a04fc71e434f3f5dfc2ecfed38b955dc8d4"
+    },
+    {
+      "symbol": "SINDU",
+      "path": "03_stock_charts_ohlcv/SINDU_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b159e51638725d0c73e9272da771b6e465828e2731bf23942d67ec7a4ab0e084"
+    },
+    {
+      "symbol": "SINDUP",
+      "path": "03_stock_charts_ohlcv/SINDUP_OHLCV.csv",
+      "rows": 2,
+      "first_date": "2024-03-13",
+      "last_date": "2026-04-05",
+      "sha256": "c936f75469dc4252c39bdf3f0b6d298ff47578241130cb4a90e4bfc8419cbec0"
+    },
+    {
+      "symbol": "SIPD",
+      "path": "03_stock_charts_ohlcv/SIPD_OHLCV.csv",
+      "rows": 170,
+      "first_date": "2026-04-10",
+      "last_date": "2026-11-20",
+      "sha256": "5164fdeea6c94021ffceff24c1a0897a7b0bb86f805267aa5a73d5e1d013248f"
+    },
+    {
+      "symbol": "SJCL",
+      "path": "03_stock_charts_ohlcv/SJCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b5f2108188780d2d0b91dec7729f9259c0de15b77c7cfe9a185041960a2fa42d"
+    },
+    {
+      "symbol": "SJLIC",
+      "path": "03_stock_charts_ohlcv/SJLIC_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "de9e7222ecc455b5bab9b1c2b57e1a105fe82ab50f77a3dfdc55bfc5c9fdae4b"
+    },
+    {
+      "symbol": "SJLICP",
+      "path": "03_stock_charts_ohlcv/SJLICP_OHLCV.csv",
+      "rows": 4,
+      "first_date": "2024-05-12",
+      "last_date": "2026-06-30",
+      "sha256": "46d4614b4143ab9568394d0d14185c13ebe918915b399bdfddc56f75d5c1ff0e"
+    },
+    {
+      "symbol": "SKBBL",
+      "path": "03_stock_charts_ohlcv/SKBBL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2e520d16fd235d5ba0bf331140b84e5a10fe4f70dbcf15ece286cbc748e160e9"
+    },
+    {
+      "symbol": "SKBBLP",
+      "path": "03_stock_charts_ohlcv/SKBBLP_OHLCV.csv",
+      "rows": 10,
+      "first_date": "2024-07-03",
+      "last_date": "2025-04-07",
+      "sha256": "918e547f58a05c78bcdfff5daca836894763ae709278b50403bf705317c661d8"
+    },
+    {
+      "symbol": "SKHEL",
+      "path": "03_stock_charts_ohlcv/SKHEL_OHLCV.csv",
+      "rows": 181,
+      "first_date": "2026-03-29",
+      "last_date": "2026-11-20",
+      "sha256": "64d1c8267243256bb11bc9689e384599ba9d85d87e28bf6cd0c229035ee1c80a"
+    },
+    {
+      "symbol": "SKHL",
+      "path": "03_stock_charts_ohlcv/SKHL_OHLCV.csv",
+      "rows": 186,
+      "first_date": "2026-03-25",
+      "last_date": "2026-11-20",
+      "sha256": "5c8b546dde8d675d54461371c5837000f41e60092e358821c76726216a4809d3"
+    },
+    {
+      "symbol": "SLBBL",
+      "path": "03_stock_charts_ohlcv/SLBBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "4055f863fed08c44f0db087eecc417fa7f3610320c7c4e750e178d0c7e262c2c"
+    },
+    {
+      "symbol": "SLBBLP",
+      "path": "03_stock_charts_ohlcv/SLBBLP_OHLCV.csv",
+      "rows": 16,
+      "first_date": "2025-01-26",
+      "last_date": "2026-08-27",
+      "sha256": "3d5ca4dfe8dedfd114a39263f8ab2c71bafe5528d723ae49a6f0f04f416c856b"
+    },
+    {
+      "symbol": "SLBSL",
+      "path": "03_stock_charts_ohlcv/SLBSL_OHLCV.csv",
+      "rows": 860,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "954c25076e1e08cb30e14658cf1fa574d683a4f92a204d321bc24db4f503a9b1"
+    },
+    {
+      "symbol": "SLCF",
+      "path": "03_stock_charts_ohlcv/SLCF_OHLCV.csv",
+      "rows": 928,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "219bb0e1e99552f44660ef872167443ac795fc1f91cd914c8e52a193fce4c3d2"
+    },
+    {
+      "symbol": "SMATA",
+      "path": "03_stock_charts_ohlcv/SMATA_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "b69f701baa9a8b18a4fadce3c1a5482d9c46ed58615f97c7d6d0098c8ad184c5"
+    },
+    {
+      "symbol": "SMATAP",
+      "path": "03_stock_charts_ohlcv/SMATAP_OHLCV.csv",
+      "rows": 10,
+      "first_date": "2024-09-22",
+      "last_date": "2026-04-29",
+      "sha256": "cee337a0d8581cbbf49eaed67f293ba002dfba12c793e28917cc6b3a93a91147"
+    },
+    {
+      "symbol": "SMB",
+      "path": "03_stock_charts_ohlcv/SMB_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "73fe3a9388465d0127f34b622d6f5d009a001f880715022ee67d36aa891724f9"
+    },
+    {
+      "symbol": "SMBPO",
+      "path": "03_stock_charts_ohlcv/SMBPO_OHLCV.csv",
+      "rows": 4,
+      "first_date": "2024-12-01",
+      "last_date": "2026-07-16",
+      "sha256": "2b326682927804f731567b4bfacda39741f32314241bda828501544b297c79a9"
+    },
+    {
+      "symbol": "SMFBS",
+      "path": "03_stock_charts_ohlcv/SMFBS_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "8be7a0f93a95d47547d132f96258a305aa12a4cd09edf93b3387126baa65fcf3"
+    },
+    {
+      "symbol": "SMH",
+      "path": "03_stock_charts_ohlcv/SMH_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "4fb5068ad4189bfb44aa22e3aeaffbb640607204008e023d46325f340d5567f8"
+    },
+    {
+      "symbol": "SMHL",
+      "path": "03_stock_charts_ohlcv/SMHL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2c31c01a581c24d9ebb28efc2010b5a917ded888da5eeba4655bc8b332fb7c84"
+    },
+    {
+      "symbol": "SMJC",
+      "path": "03_stock_charts_ohlcv/SMJC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "090b8593cafab0983140babd8a4baf9e27d0878d36ff2ae9a96858337087136f"
+    },
+    {
+      "symbol": "SMPDA",
+      "path": "03_stock_charts_ohlcv/SMPDA_OHLCV.csv",
+      "rows": 769,
+      "first_date": "2024-08-18",
+      "last_date": "2026-11-20",
+      "sha256": "711e0c54dc7c622dded99dd7d2f16929dfe6d67675a340a96b347f82136f3daa"
+    },
+    {
+      "symbol": "SMPDAP",
+      "path": "03_stock_charts_ohlcv/SMPDAP_OHLCV.csv",
+      "rows": 6,
+      "first_date": "2025-02-17",
+      "last_date": "2026-09-17",
+      "sha256": "52c2f6dba902990688f9fc8717e00cac5473f4b9e2d9c50f0ed290547d197229"
+    },
+    {
+      "symbol": "SNLI",
+      "path": "03_stock_charts_ohlcv/SNLI_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ad58673cf2e5c39596706db7bcaf4b89b8e38a62d361f051ecbc912973d2b53b"
+    },
+    {
+      "symbol": "SNMAPO",
+      "path": "03_stock_charts_ohlcv/SNMAPO_OHLCV.csv",
+      "rows": 13,
+      "first_date": "2024-05-29",
+      "last_date": "2026-04-09",
+      "sha256": "6aaf452c94b5c8de987b8208c0565d52035fa49c4be4465b17bb80e850afaf6b"
+    },
+    {
+      "symbol": "SNORL",
+      "path": "03_stock_charts_ohlcv/SNORL_OHLCV.csv",
+      "rows": 93,
+      "first_date": "2026-06-26",
+      "last_date": "2026-11-20",
+      "sha256": "8adae01517b5e7382f04ea899bf7360fbac722a45d126a456ee1c6dae22d9a0e"
+    },
+    {
+      "symbol": "SOHL",
+      "path": "03_stock_charts_ohlcv/SOHL_OHLCV.csv",
+      "rows": 196,
+      "first_date": "2026-03-15",
+      "last_date": "2026-11-20",
+      "sha256": "e8af0e044871b75a24c1ce8c720af73c85b943b9bb733188fb1a41b80221f6bb"
+    },
+    {
+      "symbol": "SONA",
+      "path": "03_stock_charts_ohlcv/SONA_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "ebe73bec7c0cddaa0519664c7402eb9fd7d30e3acc098d2d9ff9337123c01ec5"
+    },
+    {
+      "symbol": "SOPL",
+      "path": "03_stock_charts_ohlcv/SOPL_OHLCV.csv",
+      "rows": 111,
+      "first_date": "2026-06-08",
+      "last_date": "2026-11-20",
+      "sha256": "1f492391b9e584154e6efb860be7be4179dd2458243cf75a39b30d727e8b182a"
+    },
+    {
+      "symbol": "SPC",
+      "path": "03_stock_charts_ohlcv/SPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "493fb2806a9dd332dd011771b8cda38173702f3c734bd7809db7ea415707e0de"
+    },
+    {
+      "symbol": "SPDL",
+      "path": "03_stock_charts_ohlcv/SPDL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "21a038aab23b08ccefdc843c5c83d7fcf5e5a86f3fd525bf781f6536319796a9"
+    },
+    {
+      "symbol": "SPHL",
+      "path": "03_stock_charts_ohlcv/SPHL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "71073c99b9d6f65b5d2902d993dea01c3c04bf78f6694544f89f635b89a6ecf5"
+    },
+    {
+      "symbol": "SPIL",
+      "path": "03_stock_charts_ohlcv/SPIL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bd9bef54e3f7bdc3f22220fa3f5ff5f3af916e22f48a75f33f8a2abeb111389a"
+    },
+    {
+      "symbol": "SPILPO",
+      "path": "03_stock_charts_ohlcv/SPILPO_OHLCV.csv",
+      "rows": 4,
+      "first_date": "2024-04-29",
+      "last_date": "2024-07-14",
+      "sha256": "c0ed54a08fed33c3a8ec9746e5953754904bd9c0bfe5d0f1b3ef34417c7d881a"
+    },
+    {
+      "symbol": "SPL",
+      "path": "03_stock_charts_ohlcv/SPL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d2d8ef2d8e6e807fd1ab91316d2327beecf0a9cfe22338e62d6ac5a45834590b"
+    },
+    {
+      "symbol": "SRBLD83",
+      "path": "03_stock_charts_ohlcv/SRBLD83_OHLCV.csv",
+      "rows": 250,
+      "first_date": "2024-03-10",
+      "last_date": "2026-11-05",
+      "sha256": "239878a47de13339391481138d7506e69742d3dea8d5dbf86239ad0210c89d38"
+    },
+    {
+      "symbol": "SRD80",
+      "path": "03_stock_charts_ohlcv/SRD80_OHLCV.csv",
+      "rows": 12,
+      "first_date": "2024-03-21",
+      "last_date": "2024-05-11",
+      "sha256": "4e83bc02f4749c4b3ec172d55c027967128bdc942a668484e5e8553b7415dbeb"
+    },
+    {
+      "symbol": "SRLI",
+      "path": "03_stock_charts_ohlcv/SRLI_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d73123941c3ff6a1306660ef45c57bfc2d02abd097721de122937109c0bec22e"
+    },
+    {
+      "symbol": "SRLIP",
+      "path": "03_stock_charts_ohlcv/SRLIP_OHLCV.csv",
+      "rows": 34,
+      "first_date": "2025-06-09",
+      "last_date": "2026-10-29",
+      "sha256": "27277fb725450e8bd61fa51a844394890380ce99827775ed11f2e3b006ea0ba1"
+    },
+    {
+      "symbol": "SSHL",
+      "path": "03_stock_charts_ohlcv/SSHL_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "bd06672b1b0ea5f586ae1bae3e3a290aef5a862fd4f872347937249cf44724fe"
+    },
+    {
+      "symbol": "STC",
+      "path": "03_stock_charts_ohlcv/STC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e63b3fd7ed166f76842999834ed6eb2c620c484856ea29c4d3579499166d3b9c"
+    },
+    {
+      "symbol": "SWASTIK",
+      "path": "03_stock_charts_ohlcv/SWASTIK_OHLCV.csv",
+      "rows": 314,
+      "first_date": "2025-11-11",
+      "last_date": "2026-11-20",
+      "sha256": "f2f64ecc3e4de33227725e9059f4ca0861c62774ccbdc8133bcd6e5b5b0c49f2"
+    },
+    {
+      "symbol": "SWBBL",
+      "path": "03_stock_charts_ohlcv/SWBBL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8802445e8e001226753de4b44aa03f40a539e2fc35874722b9bd3f305a22abb6"
+    },
+    {
+      "symbol": "SWBBLP",
+      "path": "03_stock_charts_ohlcv/SWBBLP_OHLCV.csv",
+      "rows": 1,
+      "first_date": "2024-08-06",
+      "last_date": "2024-08-06",
+      "sha256": "a6be61faeab9ac697de548d5fcfd6425c50ab5bb6c00e4c79f0df306972a07cd"
+    },
+    {
+      "symbol": "SWMF",
+      "path": "03_stock_charts_ohlcv/SWMF_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "2b22526067f2c1f539ca009a14f7c76760db84a4510aeff16a7ba65abe10e63d"
+    },
+    {
+      "symbol": "SWMFPO",
+      "path": "03_stock_charts_ohlcv/SWMFPO_OHLCV.csv",
+      "rows": 50,
+      "first_date": "2024-03-05",
+      "last_date": "2026-10-14",
+      "sha256": "0f736dc4122df9dd2ed34bbeaf4890fcb8363fc4f7bf248a08b28bf9cff0caca"
+    },
+    {
+      "symbol": "SYPNL",
+      "path": "03_stock_charts_ohlcv/SYPNL_OHLCV.csv",
+      "rows": 290,
+      "first_date": "2025-12-10",
+      "last_date": "2026-11-20",
+      "sha256": "db944c4a805182633eb78da66655c808f35f7eb4b02ea824bb74866527c19e26"
+    },
+    {
+      "symbol": "TAMOR",
+      "path": "03_stock_charts_ohlcv/TAMOR_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "f8812177a13fa0bdfcedcf094b348ff6ba054b4172e7b9f26b4aba6573c048c1"
+    },
+    {
+      "symbol": "TPC",
+      "path": "03_stock_charts_ohlcv/TPC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "91fe5ea2839a650fa7f93ecaa3bae71b2301a35a01c4e78b695449288aa6c74e"
+    },
+    {
+      "symbol": "TPKHL",
+      "path": "03_stock_charts_ohlcv/TPKHL_OHLCV.csv",
+      "rows": 97,
+      "first_date": "2026-06-22",
+      "last_date": "2026-11-20",
+      "sha256": "ce059adaa0ad0003f3383ca055c149f5caac80656d0361efb87c854b2d579260"
+    },
+    {
+      "symbol": "TRH",
+      "path": "03_stock_charts_ohlcv/TRH_OHLCV.csv",
+      "rows": 934,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "7690946aa611975b842b3db5b91f1f2b49f7853ae0668b7a913ece8bb1990252"
+    },
+    {
+      "symbol": "TSHL",
+      "path": "03_stock_charts_ohlcv/TSHL_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "877c76aa355c7c5c47609524c5595399a1996b79bd38ae4e8a37b175bdd47fa7"
+    },
+    {
+      "symbol": "TTL",
+      "path": "03_stock_charts_ohlcv/TTL_OHLCV.csv",
+      "rows": 436,
+      "first_date": "2025-07-17",
+      "last_date": "2026-11-20",
+      "sha256": "4f513cb301ac549842faa07b6731253edd98a02417adeb9bb7e32eaee0ff8a4a"
+    },
+    {
+      "symbol": "TVCL",
+      "path": "03_stock_charts_ohlcv/TVCL_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "d6993fada2417001b1a47b378e4606973f72ee5f79cd422f541919fcc042c5c2"
+    },
+    {
+      "symbol": "UAIL",
+      "path": "03_stock_charts_ohlcv/UAIL_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "020540dda0e255745da1415b9703d883a6bc5b32c7900556c418b37b3bb34bca"
+    },
+    {
+      "symbol": "UAILPO",
+      "path": "03_stock_charts_ohlcv/UAILPO_OHLCV.csv",
+      "rows": 7,
+      "first_date": "2024-06-25",
+      "last_date": "2026-08-06",
+      "sha256": "14aea3b05cc012d9ddc4abf6e74961b655a8a6b42a1fe89c1092a222502b64ba"
+    },
+    {
+      "symbol": "UHEWA",
+      "path": "03_stock_charts_ohlcv/UHEWA_OHLCV.csv",
+      "rows": 933,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "8dc30b3c58204e07a6518fc9b0bbe865a974623c57c02ad386c41944beb7a915"
+    },
+    {
+      "symbol": "ULBSL",
+      "path": "03_stock_charts_ohlcv/ULBSL_OHLCV.csv",
+      "rows": 932,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "9f5a3bcb92487dcf597128d3c229bb30b5a6c001f3db5b39408078699ce3f675"
+    },
+    {
+      "symbol": "ULHC",
+      "path": "03_stock_charts_ohlcv/ULHC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "3b4c66bb726a1ca5bc19efbf31f4ee11bc6818cc0ae5458c92aee196660501e8"
+    },
+    {
+      "symbol": "UMHL",
+      "path": "03_stock_charts_ohlcv/UMHL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "25a07fd37f56ddd29cab5a976836f664cfcd1b4a1a949591f5aaeed0373bde61"
+    },
+    {
+      "symbol": "UMRH",
+      "path": "03_stock_charts_ohlcv/UMRH_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "08b4146150a2a355e94f608f265be38f85482691632c2f76cfa23a24691e5f88"
+    },
+    {
+      "symbol": "UNHPL",
+      "path": "03_stock_charts_ohlcv/UNHPL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "42d3650688d60fe1da8f5cfdae73c9ff418d6a4c29a8494940b88fff1e6a3d03"
+    },
+    {
+      "symbol": "UNL",
+      "path": "03_stock_charts_ohlcv/UNL_OHLCV.csv",
+      "rows": 845,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "4ae99e2156d341232507370f23c78e13d1c202250c25a520d99459ba3ab36b01"
+    },
+    {
+      "symbol": "UNLB",
+      "path": "03_stock_charts_ohlcv/UNLB_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-05",
+      "last_date": "2026-11-20",
+      "sha256": "cff394a72c8799ed1649d86d0136577fdea0d9764acc02195b11487a435cff34"
+    },
+    {
+      "symbol": "UNLBP",
+      "path": "03_stock_charts_ohlcv/UNLBP_OHLCV.csv",
+      "rows": 7,
+      "first_date": "2024-10-02",
+      "last_date": "2025-04-01",
+      "sha256": "ac77c98dd80b4e0ba3e2139bd73b8e2522bb601a18db2582594db414680f3ac2"
+    },
+    {
+      "symbol": "UPCL",
+      "path": "03_stock_charts_ohlcv/UPCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "84cdcd76b11aab9a2e8cad96d100ba2d97bcafb6e2fccca8a349320e27feac93"
+    },
+    {
+      "symbol": "UPPER",
+      "path": "03_stock_charts_ohlcv/UPPER_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "55350e29232ccd150e0174269a7ff7585c3eba246578ef42b280bc8505ebe994"
+    },
+    {
+      "symbol": "USHEC",
+      "path": "03_stock_charts_ohlcv/USHEC_OHLCV.csv",
+      "rows": 936,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "09953073d5d2f9b2b01eff347e32a5679216a3254e1dd9ee84e0ae8f6733d0b4"
+    },
+    {
+      "symbol": "USHL",
+      "path": "03_stock_charts_ohlcv/USHL_OHLCV.csv",
+      "rows": 930,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "e135a710200a5cbf0b044311f7f68fdcb6a7dc539b9eae4e396180728ad9a3ec"
+    },
+    {
+      "symbol": "USLB",
+      "path": "03_stock_charts_ohlcv/USLB_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "5951a034fb5b9a0c8dc446e35d4d909e3018f3cfb35d31bc634ac03216534da9"
+    },
+    {
+      "symbol": "VLBS",
+      "path": "03_stock_charts_ohlcv/VLBS_OHLCV.csv",
+      "rows": 931,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "00c14636ceb50aac0da0e1dc15d9d896cc2c2be12ac8ea25fe3c6ef593dd7ca2"
+    },
+    {
+      "symbol": "VLBSPO",
+      "path": "03_stock_charts_ohlcv/VLBSPO_OHLCV.csv",
+      "rows": 18,
+      "first_date": "2024-04-28",
+      "last_date": "2025-07-13",
+      "sha256": "60a2ad43e91c3b2dfdf35ace9eb8db4aef26191bed89d79df4c99d7209ef77d8"
+    },
+    {
+      "symbol": "VLUCL",
+      "path": "03_stock_charts_ohlcv/VLUCL_OHLCV.csv",
+      "rows": 935,
+      "first_date": "2024-03-04",
+      "last_date": "2026-11-20",
+      "sha256": "69f52ce47bbbe473cc56aff65c8ef3e2c007c70aae11160c2a1c5ff103d662eb"
+    },
+    {
+      "symbol": "WNLB",
+      "path": "03_stock_charts_ohlcv/WNLB_OHLCV.csv",
+      "rows": 890,
+      "first_date": "2024-03-05",
+      "last_date": "2026-09-03",
+      "sha256": "99d5ee1d822514a0448d2bc665a089ecdc3f8858eaa4f922f03f778be2eb1c31"
+    },
+    {
+      "symbol": "WNLBP",
+      "path": "03_stock_charts_ohlcv/WNLBP_OHLCV.csv",
+      "rows": 7,
+      "first_date": "2025-05-08",
+      "last_date": "2025-10-13",
+      "sha256": "6f30ce9ce1e9c17b21aa79449599acfe212c8ca029e289f5087af41f5dd35cf9"
+    },
+    {
+      "symbol": "YMHL",
+      "path": "03_stock_charts_ohlcv/YMHL_OHLCV.csv",
+      "rows": 97,
+      "first_date": "2026-06-22",
+      "last_date": "2026-11-20",
+      "sha256": "ad1738f5a983ad51a85ad11335501cf79d4b963acac0444a10a4ed361821e058"
+    }
+  ]
+}
