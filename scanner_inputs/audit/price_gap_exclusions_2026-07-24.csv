@@ -22,7 +22,6 @@ date,symbol,reason
 2026-07-24,DHEL,OHLC differs between price archives
 2026-07-24,EDBL,OHLC differs between price archives | high or low differs from executed trades
 2026-07-24,GBBL,high or low differs from executed trades
-2026-07-24,GBILD84/85,symbol absent from starter archive
 2026-07-24,GBILD86/87,symbol absent from starter archive | OHLC differs between price archives | high or low differs from executed trades
 2026-07-24,GBIME,OHLC differs between price archives | high or low differs from executed trades
 2026-07-24,GBLBS,high or low differs from executed trades
@@ -56,7 +55,6 @@ date,symbol,reason
 2026-07-24,MDB,OHLC differs between price archives
 2026-07-24,MHNL,high or low differs from executed trades
 2026-07-24,MLBL,high or low differs from executed trades
-2026-07-24,MND84/85,symbol absent from starter archive
 2026-07-24,MPFL,high or low differs from executed trades
 2026-07-24,NABBC,OHLC differs between price archives
 2026-07-24,NADEP,OHLC differs between price archives | high or low differs from executed trades
