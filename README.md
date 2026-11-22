@@ -38,3 +38,7 @@ Review the symbol and new-row count. Identical dates are skipped. A date with co
 After a successful real-data preview, run the same command with `--write` at the end. The importer writes the stock CSV under `03_stock_charts_ohlcv/` and a source record with input and output hashes under `historical_imports/`.
 
 In GitHub Desktop, open **Changes** and review the generated CSV and source record. Make sure your data provider permits storing the export in this repository. Enter a summary such as `Import NRN daily price history`, click **Commit to main**, then click **Push origin**. Refresh the repository page on GitHub to confirm both files appear. [GitHub Desktop commit and push guide](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop?platform=mac).
+
+## Supplemental scanner inputs
+
+The verified broker summaries, price-gap fills, sector inputs, and corporate-action audit are documented in [scanner_inputs](scanner_inputs/README.md).
