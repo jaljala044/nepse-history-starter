@@ -158,7 +158,7 @@ date,traded_shares,turnover_npr,traded_securities,transactions,advancers,decline
 2026-09-11,12089709,4360159487.26,345,49006,,,,,published market summary + reconciled raw tape
 2026-09-14,11595654,4688682303.71,336,49074,,,,,published market summary + reconciled raw tape
 2026-09-15,20387413,8290017115.61,347,78869,,,,,published market summary + reconciled raw tape
-2026-09-16,15101543,5389570064.00,350,,,,,,published market summary + sum of per-security EOD totals
+2026-09-16,15101543,5389570064.00,350,55830,,,,,published EOD totals + reconciled raw tape
 2026-09-17,13610496,5499316643.53,339,51728,,,,,published market summary + reconciled raw tape
 2026-09-18,21272761,6745631607.18,345,64072,,,,,published market summary + reconciled raw tape
 2026-09-22,21589761,7050398624.97,356,70691,,,,,published market summary + reconciled raw tape
