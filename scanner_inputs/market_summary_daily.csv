@@ -195,3 +195,4 @@ date,traded_shares,turnover_npr,traded_securities,transactions,advancers,decline
 2026-11-19,9437842,3877645728.62,347,40837,,,,,published market summary + reconciled raw tape
 2026-11-20,10602468,3887563470.82,352,39966,89,181,9,279 ordinary equities,published market summary + reconciled raw tape
 2026-11-23,10826913,3827606590.77,360,42854,,,,,Published session summary reconciled to all 360 source EOD rows before OHLCV exclusions
+2026-11-24,14670177,5553019249.46,350,52387,192,144,14,all 350 traded securities,ShareSansar market and EOD totals + ShareHub volume/trades + Merolagani turnover
