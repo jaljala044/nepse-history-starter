@@ -1,0 +1,53 @@
+{
+  "scope": "Five equity pilot; not independently validated",
+  "source_gap_sha": "a73f6a9994c265e2a7640d6fd34b6d0b73e0723c",
+  "market_calendar_sha": "f53c192a0ab30a09a4a21c323a7492b11cf5b6f9",
+  "repeat_dates_identical": true,
+  "summary": [
+    {
+      "s": "BGWT",
+      "weekly": 242,
+      "unresolved": 78,
+      "open_conflict": 0,
+      "retained": 615,
+      "recovered": 1,
+      "sha": "c6ff57e0b142440606011f6a41cc8e1da52daded"
+    },
+    {
+      "s": "MEHL",
+      "weekly": 242,
+      "unresolved": 78,
+      "open_conflict": 0,
+      "retained": 616,
+      "recovered": 1,
+      "sha": "7f3f9e4171c33d4e0df8c195680e3de11991c2a8"
+    },
+    {
+      "s": "RAWA",
+      "weekly": 242,
+      "unresolved": 78,
+      "open_conflict": 0,
+      "retained": 614,
+      "recovered": 1,
+      "sha": "bfa54d16d646522bcd6d96f759e75d4b4ca28ef0"
+    },
+    {
+      "s": "RHGCL",
+      "weekly": 242,
+      "unresolved": 78,
+      "open_conflict": 0,
+      "retained": 616,
+      "recovered": 1,
+      "sha": "720917fc8f8b0c44906f1970f8813ee5e9e27a98"
+    },
+    {
+      "s": "ULHC",
+      "weekly": 242,
+      "unresolved": 78,
+      "open_conflict": 0,
+      "retained": 616,
+      "recovered": 1,
+      "sha": "fe152229a2e2f3e94310215bb63cc7cd0d21c208"
+    }
+  ]
+}
