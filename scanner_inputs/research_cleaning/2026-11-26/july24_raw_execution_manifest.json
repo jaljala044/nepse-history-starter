@@ -1,0 +1,23 @@
+{
+  "source_blob": "da34731efb753fa3fdd5861e26b9006c5dd75d5e",
+  "rows": 70158,
+  "unique": 70158,
+  "dup": 0,
+  "bad": 0,
+  "amountMismatch": 0,
+  "quantity": 13769100,
+  "turnover": "6267226722.57",
+  "symbols": 353,
+  "counts": {
+    "NEITHER": 91,
+    "volume_match": 122,
+    "open_executed": 119,
+    "close_executed": 122,
+    "all_candidate_checks": 10,
+    "BOTH": 20,
+    "EOD_ONLY": 11
+  },
+  "compared": 122,
+  "session_order_verified": false,
+  "production_approved": false
+}
