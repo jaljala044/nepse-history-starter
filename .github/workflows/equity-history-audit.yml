@@ -1,0 +1,37 @@
+name: Equity history research audit
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/equity-history-audit.yml'
+      - 'scanner_inputs/clean_equity_history.py'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run research-only cleaning
+        run: python3 scanner_inputs/clean_equity_history.py
+      - name: Verify output integrity
+        run: |
+          python3 - <<'PY'
+          import csv,json
+          from pathlib import Path
+          p=Path('scanner_inputs/research_cleaning/universe_candidate')
+          m=json.loads((p/'manifest.json').read_text())
+          rows=list(csv.DictReader((p/'candidate.csv').open()))
+          q=list(csv.DictReader((p/'quarantine.csv').open()))
+          assert len(rows)==m['candidate_rows']
+          assert len(q)==m['quarantine_rows']
+          assert len({(r['symbol'],r['date']) for r in rows})==len(rows)
+          assert m['independent_validation'] is False
+          print(json.dumps({k:v for k,v in m.items() if k!='stocks'},indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: equity-history-research-candidate
+          path: scanner_inputs/research_cleaning/universe_candidate/
+          if-no-files-found: error
